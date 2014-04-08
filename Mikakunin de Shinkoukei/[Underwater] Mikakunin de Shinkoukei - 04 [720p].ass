@@ -1,0 +1,957 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+Last Style Storage: Default
+Audio File: ?video
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 0
+Aegisub Video Zoom Percent: 1.000000
+Aegisub Scroll Position: 420
+Aegisub Active Line: 432
+YCbCr Matrix: TV.709
+Video File: Mikakunin.04.premux.720p.mkv
+Aegisub Video Aspect Ratio: c1.777778
+Aegisub Video Position: 31532
+Audio URI: Mikakunin.04.premux.720p.mkv
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00372347,&HDC3B1945,-1,0,0,0,97,100,0.3,0,1,2.8,1.2,2,160,160,42,1
+Style: DefaultAlt,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H0045312A,&HDC3F221B,-1,0,0,0,97,100,0.3,0,1,2.8,1.2,2,160,160,42,1
+Style: DefaultTop,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00372347,&HDC3B1945,-1,0,0,0,97,100,0.3,0,1,2.8,1.2,8,160,160,38,1
+Style: DefaultItalic,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00372347,&HDC3B1945,-1,-1,0,0,97,100,0.3,0,1,2.8,1.2,2,160,160,42,1
+Style: DefaultTopItalic,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00372347,&HDC3B1945,-1,-1,0,0,97,100,0.3,0,1,2.8,1.2,8,160,160,38,1
+Style: we mango now,Anime Ace 2.0 BB,50,&H00030302,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Sign - Episode Title,DFPMaruGothic-W6-Kami,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,0,0,2,10,10,10,1
+Style: Sign - Logo,FOT-Seurat Pro DB-Mikakunin,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: OH MY GOD A STAR,FOT-Seurat Pro DB-Mikakunin,13,&H00DEBB4F,&H000000FF,&H00DEBB4F,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,5,10,10,10,1
+Style: we mango now - Copy,Helvetica,50,&H00030302,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Mikakunin DE Shinkoukei ED (Romaji),SNsanafonkakuP,40,&H00E9E9FB,&H000000FF,&H002122B0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,75,75,35,1
+Style: Mikakunin DE Shinkoukei ED (English),SNsanafonkakuP,40,&H00E9E9FB,&H000000FF,&H002122B0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,75,75,35,1
+Style: Mikakunin DE Shinkoukei ED (Romaji) 2,SNsanafonkakuP,40,&H00F6FDF6,&H000000FF,&H00249835,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,75,75,54,1
+Style: Mikakunin DE Shinkoukei ED (English) 2,SNsanafonkakuP,40,&H00CFF1D4,&H000000FF,&H00249835,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,75,75,35,1
+Style: Mikakunin OP (Romaji),Set Fire to the Rain,52,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.8,0,8,75,75,25,1
+Style: Mikakunin OP (Romaji) Crayon,DK Crayon Crumble,54,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,2.8,0,8,75,75,25,1
+Style: Mikakunin OP (Romaji) Background,Set Fire to the Rain,52,&HFF000000,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,75,75,25,1
+Style: Mikakunin OP (Romaji) Crayon Background,DK Crayon Crumble,54,&HFF000000,&H000019FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,8,75,75,25,1
+Style: Mikakunin OP (English),Set Fire to the Rain,52,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.8,0,2,75,75,24,1
+Style: Mikakunin OP (English) Crayon,DK Crayon Crumble,54,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,2.8,0,2,75,75,24,1
+Style: Mikakunin OP (English) Background,Set Fire to the Rain,52,&HFF000000,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,75,75,24,1
+Style: Mikakunin OP (English) Crayon Background,DK Crayon Crumble,54,&HFF000000,&H000019FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,2,75,75,24,1
+Style: Sign - Logo2,FOT-Seurat Pro DB-Mikakunin,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,{part b}
+Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ED}
+Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,{OP}
+Comment: 10,0:00:00.95,0:00:02.42,Default,,0,0,0,,Translation: Futsuu, Kusion | Editing: Kusion | Typesetting: Juular | Timing: KmE | Encoding: Daiz | QC: Kusion, Daiz
+Comment: 0,0:00:34.93,0:00:58.05,Mikakunin OP (English) Background,,0,0,0,,OP FIRST FRAME
+Comment: 0,0:02:05.31,0:02:09.77,we mango now,,0,0,0,,{\blur0.6}{TS 2:08}She's Just a Pervert
+Comment: 0,0:11:43.84,0:11:46.68,we mango now,,0,0,0,,{\blur0.6\pos(32.496,213.835)}{TS 11:45}{title}
+Comment: 0,0:14:58.87,0:15:00.50,we mango now,,0,0,0,,{\blur0.6}{TS 15:00}Visitors - Staff Entrance
+Comment: 0,0:14:58.87,0:15:00.50,we mango now,,0,0,0,,{\blur0.6}{TS 15:00}Student Entrance - Gymnasium
+Comment: 0,0:21:54.70,0:21:57.43,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,ED FIRST FRAME
+Comment: 0,0:23:31.09,0:23:32.89,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(958,347)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Comment: 1,0:23:31.09,0:23:32.89,we mango now,,0,0,0,,{\blur0.6\pos(961,323)}{TS 23:31}Ahhh!
+Comment: 0,0:23:33.05,0:23:39.52,we mango now,,0,0,0,,{\an7\bord0\blur3\pos(948,242)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx127\fscy101}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Comment: 1,0:23:33.05,0:23:33.09,we mango now,horrorific,0,0,0,***,{\blur0.75\fscx65.36\fscy65.36\pos(1009.43,264.61)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.05,0:23:39.52,we mango now,,0,0,0,,{\blur0.6\fscx72\fscy72\pos(948,242)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.09,0:23:33.14,we mango now,horrorific,0,0,0,***,{\blur0.69\fscx59.92\fscy59.92\pos(984.42,255.4)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.14,0:23:33.18,we mango now,horrorific,0,0,0,***,{\blur0.67\fscx57.8\fscy57.8\pos(974.69,251.83)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.18,0:23:33.22,we mango now,horrorific,0,0,0,***,{\blur0.65\fscx56.57\fscy56.57\pos(969.03,249.77)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.22,0:23:33.26,we mango now,horrorific,0,0,0,***,{\blur0.64\fscx55.72\fscy55.72\pos(965.1,248.31)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.26,0:23:33.30,we mango now,horrorific,0,0,0,***,{\blur0.64\fscx55.07\fscy55.07\pos(962.05,247.17)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.30,0:23:33.35,we mango now,horrorific,0,0,0,***,{\blur0.63\fscx54.51\fscy54.51\pos(959.58,246.27)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.35,0:23:33.39,we mango now,horrorific,0,0,0,***,{\blur0.62\fscx54.08\fscy54.08\pos(957.52,245.5)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.39,0:23:33.43,we mango now,horrorific,0,0,0,***,{\blur0.62\fscx53.7\fscy53.7\pos(955.76,244.86)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.43,0:23:33.47,we mango now,horrorific,0,0,0,***,{\blur0.62\fscx53.36\fscy53.36\pos(954.26,244.31)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.47,0:23:33.51,we mango now,horrorific,0,0,0,***,{\blur0.61\fscx53.09\fscy53.09\pos(953,243.84)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.51,0:23:33.55,we mango now,horrorific,0,0,0,***,{\blur0.61\fscx52.87\fscy52.87\pos(951.92,243.41)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.55,0:23:33.60,we mango now,horrorific,0,0,0,***,{\blur0.61\fscx52.65\fscy52.65\pos(950.95,243.08)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.60,0:23:33.64,we mango now,horrorific,0,0,0,***,{\blur0.61\fscx52.47\fscy52.47\pos(950.19,242.79)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.64,0:23:33.68,we mango now,horrorific,0,0,0,***,{\blur0.6\fscx52.34\fscy52.34\pos(949.48,242.55)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.68,0:23:33.72,we mango now,horrorific,0,0,0,***,{\blur0.6\fscx52.22\fscy52.22\pos(948.98,242.35)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.72,0:23:33.76,we mango now,horrorific,0,0,0,***,{\blur0.6\fscx52.13\fscy52.13\pos(948.52,242.19)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.76,0:23:33.80,we mango now,horrorific,0,0,0,***,{\blur0.6\fscx52.06\fscy52.06\pos(948.25,242.08)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 1,0:23:33.80,0:23:39.52,we mango now,horrorific,0,0,0,***,{\blur0.6\fscx52.02\fscy52.02\pos(948,242)\clip(m 249.93 72.09 l 1042.06 72.09 1042.06 669.77 249.93 669.77)}{TS 23:33}It's\N your \N{*}Onee-tama{*Onee-tama},\N Kobeni! {match}
+Comment: 0,0:23:36.06,0:23:38.48,we mango now,,0,0,0,,{\blur0.6}{TS 23:38}Next Time
+Comment: 0,0:23:36.06,0:23:38.48,we mango now,,0,0,0,,{\blur0.6}{TS 23:38}She's Experienced Birthing {match}
+
+Dialogue: 10,0:00:00.95,0:00:02.42,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Jeez...
+Dialogue: 10,0:00:02.42,0:00:03.69,Default,,0,0,0,,What should I do?
+Dialogue: 10,0:00:04.14,0:00:06.69,DefaultItalic,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Maybe I should apologize to Hakuya...
+Dialogue: 10,0:00:06.69,0:00:10.19,Default,,0,0,0,,Hakuya dove after you, \Nresulting in you both getting hurt.
+Dialogue: 10,0:00:10.57,0:00:11.25,DefaultItalic,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Wait...
+Dialogue: 10,0:00:11.25,0:00:14.78,DefaultItalic,,0,0,0,,Maybe I should {\i0}thank{\i1} him first \Nsince he saved me?
+Dialogue: 10,0:00:15.22,0:00:17.28,Default,,0,0,0,,Despite being really badly hurt himself. {@}
+Dialogue: 10,0:00:17.73,0:00:20.56,DefaultItalic,,0,0,0,,It might be a bit rude, \Nconsidering I don't remember any of it.
+Dialogue: 10,0:00:22.23,0:00:24.12,Default,,0,0,0,,Oh, it's this late already?
+Dialogue: 10,0:00:29.71,0:00:31.00,Default,,0,0,0,,Huh?
+Dialogue: 10,0:00:31.00,0:00:32.06,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Wait...
+Dialogue: 10,0:00:32.06,0:00:33.84,Default,,0,0,0,,What?
+Dialogue: 0,0:00:56.78,0:00:57.99,Sign - Logo2,kme,0,0,0,,{\fad(276,0)\bord5\blur0.5\3c&HF8F0EC&\1c&HF8F0EC&\pos(658.971,603.267)}Engaged to the Unidentified
+Dialogue: 1,0:00:56.78,0:00:57.99,Sign - Logo2,kme,0,0,0,,{\fad(276,0)\blur0.5\c&HDEBA4C&\pos(658.971,603.267)}Engaged to the Unidentified
+Dialogue: 3,0:00:58.05,0:01:00.58,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&HB9810E&}asa me ga sametara mou
+Dialogue: 3,0:00:58.05,0:01:00.58,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HB9810E&}When I woke up this morning
+Dialogue: 4,0:00:58.05,0:01:00.58,Mikakunin OP (English),,0,0,0,,{\c&HB9810E&}When I woke up this morning
+Dialogue: 4,0:00:58.05,0:01:00.58,Mikakunin OP (Romaji),,0,0,0,,{\c&HB9810E&}asa me ga sametara mou
+Dialogue: 3,0:01:00.58,0:01:04.54,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&HB23407&}kinou mitai na nichijou wa nakute
+Dialogue: 3,0:01:00.58,0:01:04.54,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HB23407&}The everyday life I had was nowhere to be found
+Dialogue: 4,0:01:00.58,0:01:04.54,Mikakunin OP (Romaji),,0,0,0,,{\c&HB23407&}kinou mitai na nichijou wa nakute
+Dialogue: 4,0:01:00.58,0:01:04.54,Mikakunin OP (English),,0,0,0,,{\c&HB23407&}The everyday life I had was nowhere to be found
+Dialogue: 3,0:01:05.38,0:01:09.30,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HD253D4&}Seriously, uh, what now?
+Dialogue: 3,0:01:05.38,0:01:09.30,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&H0FB3BD&}hontou ah mou etto dou shiyou
+Dialogue: 4,0:01:05.38,0:01:09.30,Mikakunin OP (Romaji),,0,0,0,,{\c&H0FB3BD&}hontou ah mou etto dou shiyou
+Dialogue: 4,0:01:05.38,0:01:09.30,Mikakunin OP (English),,0,0,0,,{\c&HD253D4&}Seriously, uh, what now?
+Dialogue: 3,0:01:09.31,0:01:11.76,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&H4743D2&}tameiki majiriau
+Dialogue: 3,0:01:09.31,0:01:11.76,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&H4743D2&}In the midst of all the sighing
+Dialogue: 4,0:01:09.31,0:01:11.76,Mikakunin OP (English),,0,0,0,,{\c&H4743D2&}In the midst of all the sighing
+Dialogue: 4,0:01:09.31,0:01:11.76,Mikakunin OP (Romaji),,0,0,0,,{\c&H4743D2&}tameiki majiriau
+Dialogue: 3,0:01:11.76,0:01:13.52,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HC66648&}I accidentally put in this recipe of sweets and delusions
+Dialogue: 3,0:01:11.76,0:01:13.52,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&HC66648&}okashi to mousou no recipe no naka ni
+Dialogue: 4,0:01:11.76,0:01:13.52,Mikakunin OP (English),,0,0,0,,{\c&HC66648&}I accidentally put in this recipe of sweets and delusions
+Dialogue: 4,0:01:11.76,0:01:13.52,Mikakunin OP (Romaji),,0,0,0,,{\c&HC66648&}okashi to mousou no recipe no naka ni
+Dialogue: 3,0:01:13.52,0:01:16.02,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&H765ADA&}I accidentally put in this recipe of sweets and delusions
+Dialogue: 3,0:01:13.52,0:01:16.02,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&H765ADA&}okashi to mousou no recipe no naka ni
+Dialogue: 4,0:01:13.52,0:01:16.02,Mikakunin OP (Romaji),,0,0,0,,{\c&H765ADA&}okashi to mousou no recipe no naka ni
+Dialogue: 4,0:01:13.52,0:01:16.02,Mikakunin OP (English),,0,0,0,,{\c&H765ADA&}I accidentally put in this recipe of sweets and delusions
+Dialogue: 3,0:01:16.02,0:01:18.13,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&H9444D2&}koigokoro haichatta
+Dialogue: 3,0:01:16.02,0:01:18.13,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&H9444D2&}A dash of love
+Dialogue: 4,0:01:16.02,0:01:18.13,Mikakunin OP (English),,0,0,0,,{\c&H9444D2&}A dash of love
+Dialogue: 4,0:01:16.02,0:01:18.13,Mikakunin OP (Romaji),,0,0,0,,{\c&H9444D2&}koigokoro haichatta
+Dialogue: 3,0:01:20.02,0:01:22.80,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&HDB63CB&}chiffon cake ni custard
+Dialogue: 3,0:01:20.02,0:01:22.80,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HDB63CB&}Chiffon cakes and custard
+Dialogue: 4,0:01:20.02,0:01:22.80,Mikakunin OP (English),,0,0,0,,{\c&HDB63CB&}Chiffon cakes and custard
+Dialogue: 4,0:01:20.02,0:01:22.80,Mikakunin OP (Romaji),,0,0,0,,{\c&HDB63CB&}chiffon cake ni custard
+Dialogue: 3,0:01:22.80,0:01:25.78,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&H765ADA&}Along with some scones and clotted cream
+Dialogue: 3,0:01:22.80,0:01:25.78,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&H765ADA&}scone ni clotted cream
+Dialogue: 4,0:01:22.80,0:01:25.78,Mikakunin OP (Romaji),,0,0,0,,{\c&H765ADA&}scone ni clotted cream
+Dialogue: 4,0:01:22.80,0:01:25.78,Mikakunin OP (English),,0,0,0,,{\c&H765ADA&}Along with some scones and clotted cream
+Dialogue: 3,0:01:25.78,0:01:26.36,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HD6964B&}But there really is something off about all this
+Dialogue: 3,0:01:25.78,0:01:26.36,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&HD6964B&}dakedo yappa korette okashii wa
+Dialogue: 4,0:01:25.78,0:01:26.36,Mikakunin OP (English),,0,0,0,,{\c&HD6964B&}But there really is something off about all this
+Dialogue: 4,0:01:25.78,0:01:26.36,Mikakunin OP (Romaji),,0,0,0,,{\c&HD6964B&}dakedo yappa korette okashii wa
+Dialogue: 3,0:01:26.36,0:01:27.61,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&H61C0EE&}But there really is something off about all this
+Dialogue: 3,0:01:26.36,0:01:27.61,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&H61C0EE&}dakedo yappa korette okashii wa
+Dialogue: 4,0:01:26.36,0:01:27.61,Mikakunin OP (English),,0,0,0,,{\c&H61C0EE&}But there really is something off about all this
+Dialogue: 4,0:01:26.36,0:01:27.61,Mikakunin OP (Romaji),,0,0,0,,{\c&H61C0EE&}dakedo yappa korette okashii wa
+Dialogue: 3,0:01:27.61,0:01:28.53,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HD272EB&}But there really is something off about all this
+Dialogue: 3,0:01:27.61,0:01:28.53,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&HD272EB&}dakedo yappa korette okashii wa
+Dialogue: 4,0:01:27.61,0:01:28.53,Mikakunin OP (Romaji),,0,0,0,,{\c&HD272EB&}dakedo yappa korette okashii wa
+Dialogue: 4,0:01:27.61,0:01:28.53,Mikakunin OP (English),,0,0,0,,{\c&HD272EB&}But there really is something off about all this
+Dialogue: 1,0:01:28.53,0:01:31.33,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HD272EB&}Why does it have to be me?
+Dialogue: 3,0:01:28.53,0:01:31.33,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&HD6964B&}doushite {\3c&HD272EB&}watashi nan{\3c&H4AA1F7&} darou
+Dialogue: 3,0:01:28.53,0:01:31.33,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HD6964B&}Why does{\3c&HD272EB&} it have to {\3c&H4AA1F7&}be me?
+Dialogue: 4,0:01:28.53,0:01:31.33,Mikakunin OP (English),,0,0,0,,{\c&HD6964B&}Why does{\c&HD272EB&} it have to {\c&H4AA1F7&}be me?
+Dialogue: 4,0:01:28.53,0:01:31.33,Mikakunin OP (Romaji),,0,0,0,,{\c&HD6964B&}doushite {\c&HD272EB&}watashi nan{\c&H4AA1F7&} darou
+Dialogue: 1,0:01:31.33,0:01:36.21,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HD272EB&}How could you spring this on me?
+Dialogue: 1,0:01:31.33,0:01:36.21,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&HD272EB&}kyuu ni sonna koto iidashite
+Dialogue: 2,0:01:31.33,0:01:36.21,Mikakunin OP (Romaji),,0,0,0,,{\c&HD272EB&}kyuu ni sonna koto iidashite
+Dialogue: 3,0:01:31.33,0:01:36.21,Mikakunin OP (English) Background,,0,0,0,,{\clip(334,641,950,708)\t(3064,3732,\clip(334,641,950,1))}{\blur2}{\3c&HD6964B&}How could {\3c&HD272EB&}you spring this {\3c&H4AA1F7&}on me?
+Dialogue: 3,0:01:31.33,0:01:36.21,Mikakunin OP (Romaji) Background,,0,0,0,,{\clip(371,18,895,87)\t(4274,4649,\clip(371,18,895,1))}{\blur2}{\3c&HD6964B&}kyuu ni {\3c&HD272EB&}sonna koto{\3c&H4AA1F7&} iidashite
+Dialogue: 3,0:01:31.33,0:01:36.21,Mikakunin OP (English),,0,0,0,,{\c&HD272EB&}How could you spring this on me?
+Dialogue: 4,0:01:31.33,0:01:36.21,Mikakunin OP (Romaji),,0,0,0,,{\clip(371,18,895,87)\t(4274,4649,\clip(371,18,895,1))}{\c&HD6964B&}kyuu ni {\c&HD272EB&}sonna koto{\c&H4AA1F7&} iidashite
+Dialogue: 4,0:01:31.33,0:01:36.21,Mikakunin OP (English),,0,0,0,,{\clip(334,641,950,708)\t(3064,3732,\clip(334,641,950,1))}{\c&HD6964B&}How could {\c&HD272EB&}you spring this {\c&H4AA1F7&}on me?
+Dialogue: 3,0:01:36.21,0:01:37.46,Mikakunin OP (English) Background,,0,0,0,,{\blur2}What am I ever to do?
+Dialogue: 3,0:01:36.21,0:01:37.46,Mikakunin OP (Romaji) Background,,0,0,0,,ah dou shiyou
+Dialogue: 4,0:01:36.21,0:01:37.46,Mikakunin OP (Romaji),,0,0,0,,ah dou shiyou
+Dialogue: 4,0:01:36.21,0:01:37.46,Mikakunin OP (English),,0,0,0,,What am I ever to do?
+Dialogue: 3,0:01:37.46,0:01:43.18,Mikakunin OP (Romaji) Crayon Background,,0,0,0,,{\blur2}{\3c&HEDB842&}k{\3c&HE1B951&}i{\3c&HDBB957&}m{\3c&HC9BA6D&}i{\3c&HC4BA74&} {\3c&HB6BB84&}w{\3c&HA3BC9B&}o{\3c&H98BDAA&} {\3c&H8BBDB8&}s{\3c&H80BFC6&}u{\3c&H75BED3&}k{\3c&H6ABFE1&}i{\3c&H64BFE8&} {\3c&H61BAEC&}n{\3c&H61B3EC&}i{\3c&H61AEEB&} {\3c&H63A6E9&}n{\3c&H639CE9&}a{\3c&H6394E8&}c{\3c&H648DE6&}c{\3c&H6585E6&}h{\3c&H657CE4&}a{\3c&H6674E4&}u{\3c&H676CE2&} {\3c&H6764E2&}k{\3c&H7163D8&}a{\3c&H7C63CF&} {\3c&H8662C6&}n{\3c&H9162BC&}a{\3c&H9C62B4&}n{\3c&HA360AC&}t{\3c&HAB60A5&}e{\3c&HB5609D&} {\3c&HC25F91&}w{\3c&HCE5F85&}a{\3c&HD0637E&}k{\3c&HCB6D78&}a{\3c&HC67673&}r{\3c&HC1806D&}a{\3c&HBB8B68&}n{\3c&HB69561&}a{\3c&HB49A5F&}i{\3c&HAFA259&} {\3c&HAAAC53&}k{\3c&HA5B54E&}e{\3c&HA0BF48&}d{\3c&H9BC943&}o
+Dialogue: 3,0:01:37.46,0:01:43.18,Mikakunin OP (English) Crayon Background,,0,0,0,,{\blur2}{\\k0}{\3c&HDDAC3D&}I{\3c&HC6AE5B&} {\3c&HB3B075&}d{\3c&H9DB290&}o{\3c&H87B4AE&}n{\3c&H75B6C6&}'{\3c&H6CB8D3&}t{\3c&H5ABAEB&} {\3c&H51B3F5&}k{\3c&H53A6F2&}n{\3c&H5496EF&}o{\3c&H5685EC&}w{\3c&H5873E9&} {\3c&H5867E7&}i{\3c&H5A5EE6&}f{\3c&H6056E0&} {\3c&H7058D3&}I{\3c&H7A5ACC&}'{\3c&H815BC7&}l{\3c&H875CC3&}l{\3c&H925DBA&} {\3c&HA05FAF&}f{\3c&HAC61A5&}a{\3c&HB562A0&}l{\3c&HBB639A&}l{\3c&HC26791&} {\3c&HBD7386&}f{\3c&HB58279&}o{\3c&HB08C70&}r{\3c&HA99964&} {\3c&HA4A559&}y{\3c&H9CB44C&}o{\3c&H95C240&}u
+Dialogue: 4,0:01:37.46,0:01:43.18,Mikakunin OP (English) Crayon,,0,0,0,,{\\k0}{\1c&HDDAC3D&}I{\1c&HC6AE5B&} {\1c&HB3B075&}d{\1c&H9DB290&}o{\1c&H87B4AE&}n{\1c&H75B6C6&}'{\1c&H6CB8D3&}t{\1c&H5ABAEB&} {\1c&H51B3F5&}k{\1c&H53A6F2&}n{\1c&H5496EF&}o{\1c&H5685EC&}w{\1c&H5873E9&} {\1c&H5867E7&}i{\1c&H5A5EE6&}f{\1c&H6056E0&} {\1c&H7058D3&}I{\1c&H7A5ACC&}'{\1c&H815BC7&}l{\1c&H875CC3&}l{\1c&H925DBA&} {\1c&HA05FAF&}f{\1c&HAC61A5&}a{\1c&HB562A0&}l{\1c&HBB639A&}l{\1c&HC26791&} {\1c&HBD7386&}f{\1c&HB58279&}o{\1c&HB08C70&}r{\1c&HA99964&} {\1c&HA4A559&}y{\1c&H9CB44C&}o{\1c&H95C240&}u
+Dialogue: 4,0:01:37.46,0:01:43.18,Mikakunin OP (Romaji) Crayon,,0,0,0,,{\\k0}{\1c&HEDB842&}k{\1c&HE1B951&}i{\1c&HDBB957&}m{\1c&HC9BA6D&}i{\1c&HC4BA74&} {\1c&HB6BB84&}w{\1c&HA3BC9B&}o{\1c&H98BDAA&} {\1c&H8BBDB8&}s{\1c&H80BEC6&}u{\1c&H75BED3&}k{\1c&H6ABFE1&}i{\1c&H64BFE8&} {\1c&H61BAEC&}n{\1c&H61B3EC&}i{\1c&H61AEEB&} {\1c&H63A6E9&}n{\1c&H639CE9&}a{\1c&H6394E8&}c{\1c&H648DE6&}c{\1c&H6585E6&}h{\1c&H657CE4&}a{\1c&H6674E4&}u{\1c&H676CE2&} {\1c&H6764E2&}k{\1c&H7163D8&}a{\1c&H7C63CF&} {\1c&H8662C6&}n{\1c&H9162BC&}a{\1c&H9C62B4&}n{\1c&HA360AC&}t{\1c&HAB60A5&}e{\1c&HB5609D&} {\1c&HC25F91&}w{\1c&HCE5F85&}a{\1c&HD0637E&}k{\1c&HCB6D78&}a{\1c&HC67673&}r{\1c&HC1806D&}a{\1c&HBB8B68&}n{\1c&HB69561&}a{\1c&HB49A5F&}i{\1c&HAFA259&} {\1c&HAAAC53&}k{\1c&HA5B54E&}e{\1c&HA0BF48&}d{\1c&H9BC943&}o
+Dialogue: 3,0:01:43.18,0:01:45.50,Mikakunin OP (English) Crayon Background,,0,0,0,,{\blur2}{\3c&HE2AD37&}But you'll still be a precious gift to me
+Dialogue: 3,0:01:43.18,0:01:45.50,Mikakunin OP (Romaji) Crayon Background,,0,0,0,,{\blur2}{\3c&HE2AD37&}taisetsu na gift da
+Dialogue: 4,0:01:43.18,0:01:45.50,Mikakunin OP (English) Crayon,,0,0,0,,{\c&HE2AD37&}But you'll still be a precious gift to me
+Dialogue: 4,0:01:43.18,0:01:45.50,Mikakunin OP (Romaji) Crayon,,0,0,0,,{\c&HE2AD37&}taisetsu na gift da
+Dialogue: 3,0:01:45.50,0:01:48.50,Mikakunin OP (English) Crayon Background,,0,0,0,,{\blur2}{\3c&HE2AD37&}Gosh, that's a little embarrassing
+Dialogue: 3,0:01:45.50,0:01:48.50,Mikakunin OP (Romaji) Crayon Background,,0,0,0,,{\blur2}{\3c&HE2AD37&}nante ah terekusai kana
+Dialogue: 4,0:01:45.50,0:01:48.50,Mikakunin OP (Romaji) Crayon,,0,0,0,,{\c&HE2AD37&}nante ah terekusai kana
+Dialogue: 4,0:01:45.50,0:01:48.50,Mikakunin OP (English) Crayon,,0,0,0,,{\c&HE2AD37&}Gosh, that's a little embarrassing
+Dialogue: 3,0:01:48.77,0:01:52.10,Mikakunin OP (Romaji) Crayon Background,,0,0,0,,{\blur2}{\3c&HEDB842&}k{\3c&HE1B951&}i{\3c&HDBB957&}m{\3c&HC9BA6D&}i{\3c&HC4BA74&} {\3c&HB6BB84&}w{\3c&HA3BC9B&}a{\3c&H96BDAD&} {\3c&H87BDBD&}m{\3c&H75BED4&}a{\3c&H68BFE4&}j{\3c&H62BFEA&}i{\3c&H5FC0E8&}m{\3c&H5AC1DB&}e{\3c&H58C2D2&} {\3c&H55C2C9&}n{\3c&H52C3BF&}a{\3c&H4FC4B5&} {\3c&H4EC4AC&}k{\3c&H4AC5A3&}o{\3c&H47C59A&} {\3c&H44C690&}d{\3c&H42C687&}e{\3c&H48C580&} {\3c&H50C479&}s{\3c&H57C373&}u{\3c&H5EC26C&}k{\3c&H63C168&}i{\3c&H68C164&} {\3c&H6FC05E&}t{\3c&H74BF5A&}t{\3c&H7ABE53&}e{\3c&H82BD4D&} {\3c&H8ABC45&}n{\3c&H93BA3E&}a{\3c&H9BB639&}n{\3c&HA0B03A&}t{\3c&HA7A939&}e{\3c&HADA23A&} {\3c&HB29E39&}i{\3c&HB7973A&}u{\3c&HBF9039&} {\3c&HC78739&}d{\3c&HCE8039&}e{\3c&HD47939&}s{\3c&HDB7239&}h{\3c&HE16B39&}o{\3c&HE96439&}u
+Dialogue: 3,0:01:48.77,0:01:52.10,Mikakunin OP (English) Crayon Background,,0,0,0,,{\blur2}{\\k0}{\3c&HDDAC3D&}I{\3c&HD0AD3E&} {\3c&HC5AF3F&}b{\3c&HBAB041&}e{\3c&HAFB142&}t{\3c&HA4B343&} {\3c&H9AB445&}y{\3c&H8FB647&}o{\3c&H83B848&}u{\3c&H79B949&}'{\3c&H73BA4A&}d{\3c&H69BC4B&} {\3c&H63BB55&}s{\3c&H61BB63&}a{\3c&H60BA70&}y{\3c&H60BA7E&} {\3c&H5CB98C&}y{\3c&H59B89A&}o{\3c&H57B8AA&}u{\3c&H55B7B8&} {\3c&H53B7C2&}l{\3c&H52B7CD&}o{\3c&H4FB6DB&}v{\3c&H4EB6E5&}e{\3c&H4FB8DE&} {\3c&H50BBD4&}m{\3c&H51BECB&}e{\3c&H52C0C3&} {\3c&H53C2BC&}a{\3c&H54C4B6&}n{\3c&H56C7AE&}d{\3c&H57C9A6&} {\3c&H58CBA0&}a{\3c&H59CC9C&}l{\3c&H59CD98&}l{\3c&H5ECA92&} {\3c&H70BC86&}m{\3c&H7EB27D&}y{\3c&H8BA975&} {\3c&H989F6D&}h{\3c&HA69564&}o{\3c&HB48B5B&}n{\3c&HC28051&}e{\3c&HD07648&}s{\3c&HDC6E41&}t{\3c&HE96439&}y
+Dialogue: 4,0:01:48.77,0:01:52.10,Mikakunin OP (English) Crayon,,0,0,0,,{\\k0}{\1c&HDDAC3D&}I{\1c&HD0AD3E&} {\1c&HC5AF3F&}b{\1c&HBAB041&}e{\1c&HAFB142&}t{\1c&HA4B343&} {\1c&H9AB445&}y{\1c&H8FB647&}o{\1c&H83B848&}u{\1c&H79B949&}'{\1c&H73BA4A&}d{\1c&H69BC4B&} {\1c&H63BB55&}s{\1c&H61BB63&}a{\1c&H60BA70&}y{\1c&H5EBA7E&} {\1c&H5CB98C&}y{\1c&H59B89A&}o{\1c&H57B8AA&}u{\1c&H55B7B8&} {\1c&H53B7C2&}l{\1c&H52B7CD&}o{\1c&H4FB6DB&}v{\1c&H4EB6E5&}e{\1c&H4FB8DE&} {\1c&H50BBD4&}m{\1c&H51BECB&}e{\1c&H52C0C3&} {\1c&H53C2BC&}a{\1c&H54C4B6&}n{\1c&H56C7AE&}d{\1c&H57C9A6&} {\1c&H58CBA0&}a{\1c&H59CC9C&}l{\1c&H59CD98&}l{\1c&H5ECA92&} {\1c&H70BC86&}m{\1c&H7EB27D&}y{\1c&H8BA975&} {\1c&H989F6D&}h{\1c&HA69564&}o{\1c&HB48B5B&}n{\1c&HC28051&}e{\1c&HD07648&}s{\1c&HDC6E41&}t{\1c&HE96439&}y
+Dialogue: 4,0:01:48.77,0:01:52.10,Mikakunin OP (Romaji) Crayon,,0,0,0,,{\\k0}{\1c&HEDB842&}k{\1c&HE1B951&}i{\1c&HDBB957&}m{\1c&HC9BA6D&}i{\1c&HC4BA74&} {\1c&HB6BB84&}w{\1c&HA3BC9B&}a{\1c&H96BDAD&} {\1c&H87BDBD&}m{\1c&H75BED4&}a{\1c&H68BFE4&}j{\1c&H62BFEA&}i{\1c&H5FC0E8&}m{\1c&H5AC1DB&}e{\1c&H58C2D2&} {\1c&H55C2C9&}n{\1c&H52C3BF&}a{\1c&H4FC4B5&} {\1c&H4CC4AC&}k{\1c&H4AC5A3&}o{\1c&H47C59A&} {\1c&H44C690&}d{\1c&H42C687&}e{\1c&H48C580&} {\1c&H50C479&}s{\1c&H57C373&}u{\1c&H5EC26C&}k{\1c&H63C168&}i{\1c&H68C164&} {\1c&H6FC05E&}t{\1c&H74BF5A&}t{\1c&H7ABE53&}e{\1c&H82BD4D&} {\1c&H8ABC45&}n{\1c&H93BA3E&}a{\1c&H9BB639&}n{\1c&HA0B03A&}t{\1c&HA7A939&}e{\1c&HADA23A&} {\1c&HB29E39&}i{\1c&HB7973A&}u{\1c&HBF9039&} {\1c&HC78739&}d{\1c&HCE8039&}e{\1c&HD47939&}s{\1c&HDB7239&}h{\1c&HE16B39&}o{\1c&HE96439&}u
+Dialogue: 3,0:01:52.10,0:01:54.43,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HE96439&}I bet you'd say you love me and all my honesty
+Dialogue: 3,0:01:52.10,0:01:54.43,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&HE96439&}kimi wa majime na ko de suki tte nante iu deshou
+Dialogue: 4,0:01:52.10,0:01:54.43,Mikakunin OP (Romaji),,0,0,0,,{\c&HE96439&}kimi wa majime na ko de suki tte nante iu deshou
+Dialogue: 4,0:01:52.10,0:01:54.43,Mikakunin OP (English),,0,0,0,,{\c&HE96439&}I bet you'd say you love me and all my honesty
+Dialogue: 3,0:01:54.43,0:01:56.75,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HA8C833&}That makes my heart skip a beat
+Dialogue: 3,0:01:54.43,0:01:56.75,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&HA8C833&}chotto dokitto shichau zo
+Dialogue: 4,0:01:54.43,0:01:56.75,Mikakunin OP (Romaji),,0,0,0,,{\c&HA8C833&}chotto dokitto shichau zo
+Dialogue: 4,0:01:54.43,0:01:56.75,Mikakunin OP (English),,0,0,0,,{\c&HA8C833&}That makes my heart skip a beat
+Dialogue: 3,0:01:56.75,0:02:00.15,Mikakunin OP (Romaji) Background,,0,0,0,,{\blur2}{\3c&HE96439&}nante himitsu jouteki na revolution
+Dialogue: 3,0:01:56.75,0:02:00.15,Mikakunin OP (English) Background,,0,0,0,,{\blur2}{\3c&HE96439&}And sparks a secret emotional revolution within me
+Dialogue: 4,0:01:56.75,0:02:00.15,Mikakunin OP (English),,0,0,0,,{\c&HE96439&}And sparks a secret emotional revolution within me
+Dialogue: 4,0:01:56.75,0:02:00.15,Mikakunin OP (Romaji),,0,0,0,,{\c&HE96439&}nante himitsu jouteki na revolution
+Dialogue: 4,0:02:05.31,0:02:09.77,Sign - Episode Title,KmE,0,0,0,,{\fad(488,440)\blur0.6\bord6.5\c&H52A9FB&\3c&HFAC43B&\1a&HFF&\pos(719.463,607.62)\t(443,488,\1a&H00&)}{TS 01:45}She's Just a Pervert
+Dialogue: 5,0:02:05.31,0:02:09.77,Sign - Episode Title,KmE,0,0,0,,{\fad(488,440)\blur0.6\bord3.5\3c&HF0FBFF&\c&HF0FBFF&\1a&HFF&\pos(719.463,607.62)\t(443,488,\1a&H00&)}{TS 01:45}She's Just a Pervert
+Dialogue: 6,0:02:05.31,0:02:09.77,Sign - Episode Title,KmE,0,0,0,,{\fad(488,440)\blur0.6\bord0\c&H52A9FB&\3c&HF0FBFF&\pos(719.463,607.62)}{TS 01:45}She's Just a Pervert
+Dialogue: 10,0:02:08.89,0:02:09.90,Default,,65,871,0,,Huh?
+Dialogue: 10,0:02:09.90,0:02:11.68,Default,,0,0,0,,Kobeni's sick?
+Dialogue: 10,0:02:11.68,0:02:13.43,Default,,0,0,0,,Does she have a cold or something?
+Dialogue: 10,0:02:13.43,0:02:15.97,Default,,0,0,0,,She has a very weak body,
+Dialogue: 10,0:02:15.97,0:02:18.45,Default,,0,0,0,,so this happens every now and then.
+Dialogue: 10,0:02:18.93,0:02:19.66,Default,,0,0,0,,I see.
+Dialogue: 10,0:02:19.66,0:02:25.60,Default,,0,0,0,,She's probably still in shock since \NI told her about the time Hakuya{**-kun} saved her.
+Dialogue: 10,0:02:25.60,0:02:27.33,Default,,0,0,0,,Maybe it was too much to take in?
+Dialogue: 10,0:02:27.88,0:02:29.20,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I see...
+Dialogue: 10,0:02:29.20,0:02:29.83,Default,,0,0,0,,Huh?
+Dialogue: 10,0:02:29.83,0:02:30.88,Default,,0,0,0,,What?!
+Dialogue: 10,0:02:30.88,0:02:32.87,Default,,0,0,0,,What have you {\i1}done{\i0}?!
+Dialogue: 10,0:02:32.87,0:02:33.81,Default,,0,0,0,,Oh, come on!
+Dialogue: 10,0:02:33.81,0:02:37.17,Default,,0,0,0,,Even I wouldn't be so mean as to \Nask her to sleep with me when she's sick.
+Dialogue: 10,0:02:37.59,0:02:39.62,Default,,0,0,0,,What were you planning to do?
+Dialogue: 10,0:02:39.62,0:02:40.47,Default,,0,0,0,,Tee-hee.
+Dialogue: 10,0:02:43.50,0:02:46.47,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I have to cook...
+Dialogue: 10,0:02:52.90,0:02:56.54,Default,,0,0,0,,Hakuya said he doesn't mind \Nif she doesn't remember!
+Dialogue: 10,0:02:56.54,0:02:59.70,Default,,0,0,0,,Besides, why did you \Nwait until {\i1}now{\i0} to tell her?!
+Dialogue: 10,0:02:59.70,0:03:01.82,Default,,0,0,0,,I just didn't want to tell her.
+Dialogue: 10,0:03:01.82,0:03:04.45,Default,,0,0,0,,I thought it was better that \Nshe'd forgotten all about it.
+Dialogue: 10,0:03:04.45,0:03:05.90,Default,,0,0,0,,And why's that?
+Dialogue: 10,0:03:05.90,0:03:07.46,Default,,0,0,0,,Because, on that day,
+Dialogue: 10,0:03:07.46,0:03:12.30,Default,,0,0,0,,{\i1}I{\i0\fsp2} {\r}was supposed to accompany Grandpa.
+Dialogue: 10,0:03:12.30,0:03:15.21,Default,,0,0,0,,But I wanted to play with my friends,
+Dialogue: 10,0:03:15.95,0:03:19.34,Default,,0,0,0,,so I suggested he take Kobeni instead.
+Dialogue: 10,0:03:20.86,0:03:22.44,Default,,0,0,0,,It's all my fault.
+Dialogue: 10,0:03:22.44,0:03:24.34,Default,,0,0,0,,That's why I didn't want to tell her.
+Dialogue: 10,0:03:24.34,0:03:25.94,Default,,0,0,0,,Aren't I the worst?
+Dialogue: 10,0:03:25.94,0:03:27.72,Default,,0,0,0,,It's not your fault, {*}Sister{*Nee-sama}.
+Dialogue: 10,0:03:27.72,0:03:29.48,Default,,0,0,0,,Kobeni!
+Dialogue: 10,0:03:29.48,0:03:31.71,Default,,0,0,0,,It wasn't anyone's fault.
+Dialogue: 10,0:03:31.71,0:03:33.35,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}If only I...
+Dialogue: 10,0:03:34.23,0:03:35.28,DefaultItalic,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Oh, right...
+Dialogue: 10,0:03:35.28,0:03:38.01,DefaultItalic,,0,0,0,,Hakuya got hurt because of me.
+Dialogue: 10,0:03:38.01,0:03:42.36,DefaultItalic,,0,0,0,,And then I forgot all about it \Nand was rude to him.
+Dialogue: 10,0:03:42.36,0:03:44.92,Default,,0,0,0,,I'm sorry that I'm such \Na terrible sister, Kobeni!
+Dialogue: 10,0:03:44.92,0:03:46.00,Default,,0,0,0,,Go ahead and hit me if you want.
+Dialogue: 10,0:03:46.00,0:03:47.02,Default,,0,0,0,,Nice and hard, now!
+Dialogue: 10,0:03:47.02,0:03:48.05,Default,,0,0,0,,Hey, Kobeni!
+Dialogue: 10,0:03:48.05,0:03:49.87,Default,,0,0,0,,Are you okay?
+Dialogue: 10,0:03:51.25,0:03:52.19,Default,,0,0,0,,{\alpha&HFF&\fscx110}...{\r}Wha—?
+Dialogue: 10,0:03:52.19,0:03:53.37,Default,,0,0,0,,You told Kobeni?
+Dialogue: 10,0:03:53.37,0:03:55.03,Default,,0,0,0,,Yeah!
+Dialogue: 10,0:03:55.03,0:03:57.18,Default,,0,0,0,,Benio wasn't thinking \Nand spilled the beans to her.
+Dialogue: 10,0:03:57.18,0:03:58.88,Default,,0,0,0,,And now look, Kobeni's sick!
+Dialogue: 10,0:03:58.88,0:04:01.38,Default,,0,0,0,,I guess it really was \N{\alpha&HFF&\fscx90}...{\r}too much to take in...
+Dialogue: 10,0:04:01.38,0:04:05.76,Default,,0,0,0,,To be honest, I thought you guys \Nwould've told her by now.
+Dialogue: 10,0:04:05.76,0:04:07.47,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}W-Well...
+Dialogue: 10,0:04:07.47,0:04:09.93,Default,,0,0,0,,Hakuya told me not to tell her.
+Dialogue: 10,0:04:11.16,0:04:12.56,Default,,0,0,0,,So, what {\i1}is{\i0} this?
+Dialogue: 10,0:04:12.95,0:04:15.30,Default,,0,0,0,,My all-out critical hit creation:{she mistakes smash with critical}
+Dialogue: 10,0:04:15.30,0:04:17.06,Default,,0,0,0,,The Benio Special!
+Dialogue: 10,0:04:17.69,0:04:21.19,Default,,0,0,0,,Actually... that's not \Nwhat we wanted to know.
+Dialogue: 10,0:04:21.50,0:04:25.24,Default,,0,0,0,,It's my fault that Kobeni got a fever,
+Dialogue: 10,0:04:25.24,0:04:27.80,Default,,0,0,0,,so I felt like I needed to \Nmake up for her absence.
+Dialogue: 10,0:04:27.80,0:04:30.59,Default,,0,0,0,,But I was so, {\i1}so{\i0} worried about her!
+Dialogue: 10,0:04:30.59,0:04:31.45,Default,,0,0,0,,And here we are.
+Dialogue: 10,0:04:33.00,0:04:36.42,Default,,0,0,0,,Can't we have {*}Ms. Akane{*Akane-san} cook?
+Dialogue: 10,0:04:36.70,0:04:38.67,Default,,0,0,0,,Mom's too busy to cook.
+Dialogue: 10,0:04:38.67,0:04:42.40,Default,,0,0,0,,She also said she couldn't make it home tonight \Ndue to some emergency calls she got.
+Dialogue: 10,0:04:43.59,0:04:46.88,Default,,0,0,0,,I never realized \Nwhat I had until I lost you!
+Dialogue: 10,0:04:46.88,0:04:48.60,Default,,0,0,0,,I-I'm not dead.
+Dialogue: 10,0:04:49.37,0:04:50.55,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Hey...
+Dialogue: 10,0:04:50.55,0:04:53.34,Default,,0,0,0,,I'm sorry I forgot about it.
+Dialogue: 10,0:04:53.34,0:04:54.19,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I'm such a...
+Dialogue: 10,0:04:54.19,0:04:55.91,Default,,0,0,0,,What? Oh no!
+Dialogue: 10,0:04:55.91,0:04:58.06,Default,,0,0,0,,Don't start crying on me now!
+Dialogue: 10,0:04:58.53,0:05:00.31,Default,,0,0,0,,What's Hakuya doing?
+Dialogue: 10,0:05:00.31,0:05:02.57,Default,,0,0,0,,He seems a bit down in the dumps.
+Dialogue: 10,0:05:08.58,0:05:12.50,Default,,0,0,0,,I love my little sister more than anything, \Nbut she was always by my side.
+Dialogue: 10,0:05:12.50,0:05:15.56,Default,,0,0,0,,And, because I was older, \NI'd have to look after her.
+Dialogue: 10,0:05:15.56,0:05:18.79,Default,,0,0,0,,Sometimes, I just wanted \Nto play with my friends.
+Dialogue: 10,0:05:18.79,0:05:20.13,Default,,0,0,0,,Hey, Grandpa!
+Dialogue: 10,0:05:20.13,0:05:22.99,Default,,0,0,0,,Why don't you take Kobeni along today?
+Dialogue: 10,0:05:22.99,0:05:25.47,Default,,0,0,0,,{\fad(0,1145)}I was too careless back then.
+Dialogue: 10,0:05:26.62,0:05:28.30,Default,,0,0,0,,It's all my fault.
+Dialogue: 10,0:05:28.87,0:05:31.74,Default,,0,0,0,,I want to go back in time \Nand punch myself.
+Dialogue: 10,0:05:31.74,0:05:34.02,Default,,0,0,0,,Maybe I should squeeze myself \Ninto my desk drawer?
+Dialogue: 10,0:05:34.02,0:05:36.06,Default,,0,0,0,,Where did {\i1}that{\i0} come from?
+Dialogue: 10,0:05:37.38,0:05:38.46,Default,,0,0,0,,I see.
+Dialogue: 10,0:05:38.46,0:05:40.06,Default,,0,0,0,,So you finally told her.
+Dialogue: 10,0:05:40.55,0:05:43.86,Default,,0,0,0,,I don't think that Kobeni blames you,
+Dialogue: 10,0:05:43.86,0:05:46.52,Default,,0,0,0,,and I think you should \Nstop beating yourself up over it.
+Dialogue: 10,0:05:46.52,0:05:48.32,Default,,0,0,0,,Don't you think it's time to let it go?
+Dialogue: 10,0:05:48.32,0:05:52.14,Default,,0,0,0,,Oh, and since we're on \N{\alpha&HFF&\fscx80}...{\r}the subject of your sister... {lit: Oh, and I've been meaning to say this for a long time...}
+Dialogue: 10,0:05:52.14,0:05:54.04,Default,,0,0,0,,Even if you take what \Nhappened into account,
+Dialogue: 10,0:05:54.55,0:05:57.58,Default,,0,0,0,,I think your love for your \Nsister's a bit excessive.
+Dialogue: 10,0:05:57.58,0:05:59.33,Default,,0,0,0,,You think?
+Dialogue: 10,0:06:00.97,0:06:04.54,DefaultItalic,,0,0,0,,I have no idea how to face Hakuya.
+Dialogue: 10,0:06:04.54,0:06:07.68,DefaultItalic,,0,0,0,,I can't even think straight with this fever.
+Dialogue: 10,0:06:08.59,0:06:12.23,DefaultItalic,,0,0,0,,My body's burning up, \Nbut I still feel a chill spreading out.
+Dialogue: 10,0:06:13.11,0:06:14.32,DefaultItalic,,0,0,0,,When was it, again?
+Dialogue: 10,0:06:15.16,0:06:17.43,DefaultItalic,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Oh, I remember this...
+Dialogue: 10,0:06:20.02,0:06:21.69,DefaultItalic,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}But wait, back then...
+Dialogue: 10,0:06:22.39,0:06:25.26,DefaultItalic,,0,0,0,,there was something \Nwarm and fluffy next to me.
+Dialogue: 10,0:06:29.78,0:06:33.16,Default,,0,0,0,,Is Kobeni still sick?
+Dialogue: 10,0:06:33.16,0:06:36.00,Default,,0,0,0,,It seems like she's \Ngoing to take today off too.
+Dialogue: 10,0:06:38.81,0:06:39.76,Default,,0,0,0,,I'll stay home too, then.
+Dialogue: 10,0:06:39.76,0:06:40.58,Default,,0,0,0,,Huh?
+Dialogue: 10,0:06:41.00,0:06:43.28,Default,,0,0,0,,We can't leave Kobeni alone.
+Dialogue: 10,0:06:43.28,0:06:43.88,Default,,0,0,0,,It's too risky.
+Dialogue: 10,0:06:43.88,0:06:45.45,Default,,0,0,0,,Listen to yourself!
+Dialogue: 10,0:06:45.45,0:06:48.88,Default,,0,0,0,,It's more risky for two engaged minors \Nto spend a day all alone!
+Dialogue: 10,0:06:48.88,0:06:49.97,Default,,0,0,0,,What about me?
+Dialogue: 10,0:06:49.97,0:06:55.01,Default,,0,0,0,,It's too risky for me to go to school with Benio \Nif you two aren't going to be there!
+Dialogue: 10,0:06:55.47,0:06:57.85,Default,,0,0,0,,Why would it be risky \Nif I were alone with Kobeni?
+Dialogue: 10,0:06:57.85,0:06:59.43,Default,,0,0,0,,Well, why {\i1}wouldn't{\i0} it be?
+Dialogue: 10,0:06:59.43,0:07:02.86,Default,,0,0,0,,I don't care if you're engaged, I can't have \Nyou doing something indecent with my sister!
+Dialogue: 10,0:07:03.45,0:07:05.29,Default,,0,0,0,,What do you mean?
+Dialogue: 10,0:07:05.29,0:07:08.78,Default,,0,0,0,,Kobeni's going to stay pure \Nuntil she gets married, all right?!
+Dialogue: 10,0:07:08.78,0:07:10.36,Default,,0,0,0,,Well, obviously.
+Dialogue: 10,0:07:10.36,0:07:11.94,Default,,0,0,0,,What's so obvious about it?{if you say that so confidently}
+Dialogue: 10,0:07:11.94,0:07:14.87,Default,,0,0,0,,{toshigoro}Now I'm more worried about \Na teenager {\i1}not{\i0} thinking about that!
+Dialogue: 10,0:07:14.87,0:07:16.55,Default,,0,0,0,,Thinking about what?
+Dialogue: 10,0:07:16.55,0:07:17.91,Default,,0,0,0,,Nothing!
+Dialogue: 10,0:07:17.91,0:07:19.28,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}We're, uh...
+Dialogue: 10,0:07:19.28,0:07:20.75,Default,,0,0,0,,We're talking about cabbages.
+Dialogue: 10,0:07:20.75,0:07:21.54,Default,,0,0,0,,Oh.
+Dialogue: 10,0:07:21.54,0:07:23.52,Default,,0,0,0,,Yeah, I heard they're \Ngood for tummy aches.
+Dialogue: 10,0:07:23.52,0:07:25.92,Default,,0,0,0,,Wait, don't tell me Kobeni \Nhas a weak tummy too!
+Dialogue: 10,0:07:25.92,0:07:27.24,Default,,0,0,0,,This is too much.
+Dialogue: 10,0:07:27.24,0:07:28.92,Default,,0,0,0,,How can she be {\i1}this{\i0} cute?
+Dialogue: 10,0:07:29.40,0:07:32.97,Default,,0,0,0,,And, with that said, I've decided \Nthat I will be staying home today.
+Dialogue: 10,0:07:32.97,0:07:34.14,Default,,0,0,0,,So you two don't have \Nanything to worry about!
+Dialogue: 10,0:07:34.14,0:07:37.31,Default,,0,0,0,,Would you just shut up \Nand go to school already?!
+Dialogue: 10,0:07:37.81,0:07:40.37,Default,,0,0,0,,Kobeni yelled at me!
+Dialogue: 10,0:07:40.37,0:07:42.66,Default,,0,0,0,,I could hear her all the way from here.
+Dialogue: 10,0:07:42.66,0:07:43.93,Default,,0,0,0,,That was scary!
+Dialogue: 10,0:07:43.93,0:07:45.12,Default,,0,0,0,,Oh well.
+Dialogue: 10,0:07:45.12,0:07:47.23,Default,,0,0,0,,We should leave now \Nif we want to make it in time.
+Dialogue: 10,0:07:49.69,0:07:50.99,Default,,0,0,0,,Come on, Hakuya.
+Dialogue: 10,0:07:50.99,0:07:53.61,Default,,0,0,0,,Do you want Kobeni to yell at you too?
+Dialogue: 10,0:07:58.72,0:08:01.08,Default,,0,0,0,,Kobeni{**-chan}'s not coming in today?
+Dialogue: 10,0:08:01.08,0:08:02.08,Default,,0,0,0,,No, she's not.
+Dialogue: 10,0:08:02.08,0:08:06.61,Default,,0,0,0,,I had no idea that \Nher body was that weak.
+Dialogue: 10,0:08:06.61,0:08:10.99,Default,,0,0,0,,This has happened every \Nso often for years now.
+Dialogue: 10,0:08:10.99,0:08:13.69,Default,,0,0,0,,It made it so that she couldn't \Njoin us for field trips and such.
+Dialogue: 10,0:08:13.69,0:08:15.43,Default,,0,0,0,,I felt so bad for her.
+Dialogue: 10,0:08:15.78,0:08:17.96,Default,,0,0,0,,I wonder if she \Nwore herself out this time.
+Dialogue: 10,0:08:20.47,0:08:22.18,Default,,0,0,0,,That was pretty loud.
+Dialogue: 10,0:08:22.18,0:08:23.52,Default,,0,0,0,,Didn't you have breakfast?
+Dialogue: 10,0:08:23.52,0:08:25.68,Default,,0,0,0,,I haven't had anything \Nsince last night.
+Dialogue: 10,0:08:25.68,0:08:26.77,Default,,0,0,0,,Here.
+Dialogue: 10,0:08:27.66,0:08:29.27,Default,,0,0,0,,Thank you!
+Dialogue: 10,0:08:30.03,0:08:34.28,Default,,0,0,0,,Is Hakuya{**-kun} depressed \Nbecause Kobeni{**-chan}'s absent?
+Dialogue: 10,0:08:44.46,0:08:46.33,Default,,0,0,0,,My fever isn't going down.
+Dialogue: 10,0:08:46.96,0:08:48.71,Default,,0,0,0,,And I'm drenched in sweat.
+Dialogue: 10,0:08:48.71,0:08:50.30,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I'm so thirsty...
+Dialogue: 10,0:08:51.21,0:08:54.77,Default,,0,0,0,,I want some water, \N{\alpha&HFF&\fscx60}...{\r}but I don't want to get up...
+Dialogue: 10,0:08:54.77,0:08:56.05,Default,,0,0,0,,This sucks.
+Dialogue: 10,0:08:56.57,0:08:58.55,Default,,0,0,0,,No matter how old I get,
+Dialogue: 10,0:08:58.55,0:09:00.94,Default,,0,0,0,,I can never get used to \Nbeing alone like this.
+Dialogue: 10,0:09:06.56,0:09:08.23,Default,,0,0,0,,Oh, I'm sorry.
+Dialogue: 10,0:09:08.23,0:09:09.61,Default,,0,0,0,,Did I wake you up?
+Dialogue: 10,0:09:09.61,0:09:11.52,Default,,0,0,0,,You're back already?
+Dialogue: 10,0:09:11.52,0:09:13.20,Default,,0,0,0,,It's past three now.
+Dialogue: 10,0:09:13.20,0:09:16.53,Default,,0,0,0,,Hakuya and I rushed back home.
+Dialogue: 10,0:09:16.53,0:09:18.57,Default,,0,0,0,,Hakuya's back too?
+Dialogue: 10,0:09:18.57,0:09:20.41,Default,,0,0,0,,I'll wipe you off.
+Dialogue: 10,0:09:20.41,0:09:22.09,Default,,0,0,0,,Can you get up?
+Dialogue: 10,0:09:22.09,0:09:23.10,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:09:37.58,0:09:39.71,Default,,0,0,0,,See that scar?
+Dialogue: 10,0:09:39.71,0:09:41.72,Default,,0,0,0,,I'd forgotten all about it.
+Dialogue: 10,0:09:41.72,0:09:45.56,Default,,0,0,0,,I got this back when \NHakuya saved me, right?
+Dialogue: 10,0:09:45.56,0:09:49.02,Default,,0,0,0,,Do you really not remember \Ngetting hurt at all?
+Dialogue: 10,0:09:49.67,0:09:51.97,Default,,0,0,0,,Well, I was really young back then,
+Dialogue: 10,0:09:51.97,0:09:55.67,Default,,0,0,0,,and apparently, I was \Nunconscious for an entire month.
+Dialogue: 10,0:09:55.67,0:09:58.03,Default,,0,0,0,,Did that happen to Hakuya too?
+Dialogue: 10,0:09:58.03,0:09:59.48,Default,,0,0,0,,I don't know.
+Dialogue: 10,0:09:59.48,0:10:02.53,Default,,0,0,0,,No one's told me the \Nwhole story yet, either.
+Dialogue: 10,0:10:03.18,0:10:07.26,Default,,0,0,0,,Is that why {*}Sister{*Nee-sama} is so protective of me?
+Dialogue: 10,0:10:07.26,0:10:09.75,Default,,0,0,0,,She's just a pervert.
+Dialogue: 10,0:10:11.57,0:10:12.59,Default,,0,0,0,,Where's {*}Sister{*Nee-sama}?
+Dialogue: 10,0:10:12.59,0:10:16.72,Default,,0,0,0,,She had some student council work \Nthat she couldn't sneak away from.
+Dialogue: 10,0:10:16.72,0:10:19.22,Default,,0,0,0,,She said to text her once we were done.
+Dialogue: 0,0:10:19.22,0:10:19.89,we mango now - Copy,,0,0,0,,{\blur0.6\fscx50\fscy50\fax0.1\frz22.59\b0\pos(506.403,562.106)\c&H514C4D&\t(0,150,\c&H949199&)\t(520,0,\c&HFFFFFF&)}{TS 10:19}Sub: How's the fever?
+Dialogue: 0,0:10:19.22,0:10:19.89,we mango now - Copy,,0,0,0,,{\blur0.6\b1\fscx50\fscy50\fax0.1\pos(554.245,105.564)\frz20.02\c&H514C4D&\t(0,150,\c&H949199&)\t(520,0,\c&HFFFFFF&)}{TS 10:19}Inbox
+Dialogue: 0,0:10:19.22,0:10:19.89,we mango now - Copy,,0,0,0,,{\blur0.6\fscx50\fscy50\fax0.1\frz21.22\pos(388.152,337.444)\c&H514C4D&\t(0,150,\c&H949199&)\t(520,0,\c&HFFFFFF&)}{TS 10:19}Yonomori Benio
+Dialogue: 0,0:10:19.22,0:10:19.89,we mango now - Copy,,0,0,0,,{\blur0.6\fscx50\fscy50\fax0.1\frz24.25\b0\pos(657.294,698.196)\c&H514C4D&\t(0,150,\c&H949199&)\t(520,0,\c&HFFFFFF&)}{TS 10:19}Sub: Is there anything you want?
+Dialogue: 0,0:10:19.22,0:10:19.89,we mango now - Copy,,0,0,0,,{\blur0.6\fscx50\fscy50\fax0.1\frz22.22\b0\pos(425.162,403.309)\c&H514C4D&\t(0,150,\c&H949199&)\t(520,0,\c&HFFFFFF&)}{TS 10:19}Sub: Are you okay?
+Dialogue: 0,0:10:19.22,0:10:19.89,we mango now - Copy,,0,0,0,,{\blur0.6\fscx50\fscy50\fax0.1\frz22.38\pos(459.464,496.241)\c&H514C4D&\t(0,150,\c&H949199&)\t(520,0,\c&HFFFFFF&)}{TS 10:19}Yonomori Benio
+Dialogue: 0,0:10:19.22,0:10:21.26,we mango now - Copy,,0,0,0,,{\blur0.6\fscx50\fscy50\fax0.1\b0\c&H705F4F&\t(0,150,\c&HF3B473&)\pos(882.819,55.94)\frz19.97}{TS 10:19}Edit {blue}
+Dialogue: 0,0:10:19.22,0:10:19.89,we mango now - Copy,,0,0,0,,{\blur0.6\fscx50\fscy50\fax0.1\frz24.7\pos(531.679,664.06)\c&H514C4D&\t(0,150,\c&H949199&)\t(520,0,\c&HFFFFFF&)}{TS 10:19}Yonomori Benio
+Dialogue: 0,0:10:19.72,0:10:21.26,we mango now - Copy,,0,0,0,,{\blur0.6\fscx50\fscy50\fax0.1\c&HFFFFFF&\t(0,200,\c&HA19CA2&)\frz19.99\pos(563.056,104.662)\fax0.1}{TS 10:20}Mailboxes
+Dialogue: 0,0:10:19.72,0:10:21.26,we mango now - Copy,,0,0,0,,{\blur0.6\fscx50\fscy50\fax0.1\frz21.22\pos(486.11,503.459)\c&HFFFFFF&\t(0,200,\c&HA19CA2&)}{TS 10:20}Sent
+Dialogue: 0,0:10:19.72,0:10:21.26,we mango now - Copy,,0,0,0,,{\blur0.6\fscx50\fscy50\fax0.1\pos(443.564,400.602)\fax-0.00\frz21.93\c&HFFFFFF&\t(0,200,\c&HA19CA2&)}{TS 10:20}Inbox
+Dialogue: 10,0:10:19.88,0:10:21.91,Default,,0,0,0,,I have 85 new messages?
+Dialogue: 10,0:10:21.91,0:10:26.60,Default,,0,0,0,,She wasn't her usual self without \Nyou around. It was a huge relief!
+Dialogue: 10,0:10:27.47,0:10:29.77,Default,,0,0,0,,Sorry, I think I'll go \Nback to sleep for a while.
+Dialogue: 10,0:10:29.77,0:10:31.80,Default,,0,0,0,,Don't worry about it.
+Dialogue: 10,0:10:31.80,0:10:33.04,Default,,0,0,0,,Bye.
+Dialogue: 10,0:10:38.57,0:10:39.68,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Oh...
+Dialogue: 10,0:10:39.68,0:10:43.62,Default,,0,0,0,,You kept reminding me of something, \N{\alpha&HFF&\fscx40}...{\r}but I couldn't put my finger on it...
+Dialogue: 10,0:10:44.02,0:10:45.24,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}A dog...
+Dialogue: 10,0:10:45.24,0:10:46.98,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}A large dog...
+Dialogue: 10,0:10:48.88,0:10:51.95,Default,,0,0,0,,O-Oh, she was talking in her sleep?
+Dialogue: 10,0:10:51.95,0:10:54.40,Default,,0,0,0,,Anyway, how can she be that \Nvoluptuous even when lying face up?
+Dialogue: 10,0:10:54.40,0:10:55.96,Default,,0,0,0,,Isn't it hard to handle?
+Dialogue: 10,0:10:59.87,0:11:01.34,Default,,0,0,0,,Good morning.
+Dialogue: 10,0:11:01.34,0:11:03.49,Default,,0,0,0,,Are you feeling better?
+Dialogue: 10,0:11:03.49,0:11:05.10,Default,,0,0,0,,You don't look too good.
+Dialogue: 10,0:11:05.56,0:11:08.21,Default,,0,0,0,,No, I'm fine now.
+Dialogue: 10,0:11:08.21,0:11:11.45,Default,,0,0,0,,Sorry to cause you all that trouble.
+Dialogue: 10,0:11:11.45,0:11:12.15,Default,,0,0,0,,I see.
+Dialogue: 10,0:11:12.15,0:11:13.33,Default,,0,0,0,,Glad to hear it.
+Dialogue: 10,0:11:15.09,0:11:16.53,Default,,0,0,0,,What are you doing?
+Dialogue: 10,0:11:16.53,0:11:20.26,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Well, I think you look pretty cute, so...
+Dialogue: 10,0:11:20.26,0:11:21.73,Default,,0,0,0,,Oh, Kobeni!
+Dialogue: 10,0:11:21.73,0:11:23.12,Default,,0,0,0,,Are you feeling better?
+Dialogue: 10,0:11:23.47,0:11:25.01,DefaultItalic,,0,0,0,,Oh no.
+Dialogue: 10,0:11:25.01,0:11:26.50,DefaultItalic,,0,0,0,,What should I do?
+Dialogue: 10,0:11:26.50,0:11:28.70,DefaultItalic,,0,0,0,,How should I face him?
+Dialogue: 10,0:11:30.51,0:11:33.37,DefaultItalic,,0,0,0,,Kobeni doesn't \N{\alpha&HFF&\fscx60}...{\r}want to look at me...
+Dialogue: 10,0:11:33.37,0:11:34.50,DefaultItalic,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}She's crying...
+Dialogue: 10,0:11:36.15,0:11:37.72,Default,,0,0,0,,Hakuya, don't!
+Dialogue: 10,0:11:40.23,0:11:40.72,Default,,0,0,0,,Huh?
+Dialogue: 10,0:11:41.14,0:11:42.36,Default,,0,0,0,,What?
+Dialogue: 0,0:11:43.84,0:11:46.68,Sign - Logo,KmE,0,0,0,,{\bord2\blur0.5\3c&HF8F0EC&\1c&HF8F0EC&\fscx51.84\fscy51.84\pos(306.491,218.9)}Engaged to the\N Unidentified
+Dialogue: 1,0:11:43.84,0:11:46.68,Sign - Logo,KmE,0,0,0,,{\blur0.5\c&HDEBA4C&\fscx51.84\fscy51.84\bord0\pos(306.491,218.9)}Engaged to the\N Unidentified
+Dialogue: 2,0:11:43.84,0:11:46.68,OH MY GOD A STAR,KmE,0,0,0,,{\an7\bord0\blur1\p1\c&HF7F1EE&\fscx2.34\fscy2.34\pos(279.857,202.432)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
+Dialogue: 3,0:11:43.84,0:11:46.68,OH MY GOD A STAR,KmE,0,0,0,,{\blur0.6\fscx10\fscy10\pos(279.857,202.432)}★{whatever}
+Dialogue: 10,0:11:47.17,0:11:48.96,Default,,0,0,0,,Wait up, Hakuya!
+Dialogue: 10,0:11:52.25,0:11:54.85,DefaultTop,,0,0,0,,That was the sound of him hitting \Nhis pinky toe on the wall, staggering,
+Dialogue: 10,0:11:54.85,0:11:58.28,DefaultTop,,0,0,0,,{genkan}falling by the entrance, running into \Nthe umbrella stand, and then leaving.
+Dialogue: 10,0:11:58.28,0:12:00.70,Default,,0,0,0,,Wh-What the heck?
+Dialogue: 10,0:12:00.70,0:12:02.52,Default,,0,0,0,,Wasn't it a bit weird?
+Dialogue: 10,0:12:02.52,0:12:03.61,Default,,0,0,0,,Like, the way he just took off.
+Dialogue: 10,0:12:03.61,0:12:05.21,Default,,0,0,0,,What do you mean?
+Dialogue: 10,0:12:05.21,0:12:08.35,Default,,0,0,0,,Everyone back home is like that.
+Dialogue: 10,0:12:08.35,0:12:11.79,Default,,0,0,0,,Living in the mountains \Nreally strengthens our lower body.
+Dialogue: 10,0:12:11.79,0:12:13.17,Default,,0,0,0,,That was on a whole \Ndifferent level, though.
+Dialogue: 10,0:12:13.17,0:12:14.80,Default,,0,0,0,,Maybe you're just going blind, Benio!
+Dialogue: 10,0:12:14.80,0:12:17.06,Default,,0,0,0,,Th-That's not the issue here!
+Dialogue: 10,0:12:17.06,0:12:18.87,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Huh? Er, uh...
+Dialogue: 10,0:12:18.87,0:12:19.63,Default,,0,0,0,,You're right!
+Dialogue: 10,0:12:19.63,0:12:21.57,Default,,0,0,0,,What now? We need to get to school!
+Dialogue: 10,0:12:21.57,0:12:23.84,Default,,0,0,0,,We need to go find him!
+Dialogue: 10,0:12:27.91,0:12:30.28,Default,,0,0,0,,Kobeni's pretty diligent, huh?
+Dialogue: 10,0:12:30.28,0:12:32.23,Default,,0,0,0,,Don'tcha think it's cute?
+Dialogue: 10,0:12:35.40,0:12:36.61,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Oh no...
+Dialogue: 10,0:12:36.61,0:12:37.89,DefaultItalic,,0,0,0,,What have I done?
+Dialogue: 10,0:12:37.89,0:12:39.73,DefaultItalic,,0,0,0,,It's all my fault again.
+Dialogue: 10,0:12:41.63,0:12:43.45,DefaultItalic,,0,0,0,,I hurt him!{i made him make a face like that}
+Dialogue: 10,0:12:47.91,0:12:49.41,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}She hates me...
+Dialogue: 10,0:12:50.80,0:12:54.56,Default,,0,0,0,,She thinks I'm just an annoyance \Nnow that she knows about the injury.
+Dialogue: 10,0:12:54.56,0:12:55.92,Default,,0,0,0,,Mommy!
+Dialogue: 10,0:12:55.92,0:12:57.98,Default,,0,0,0,,Hurry up!
+Dialogue: 10,0:13:00.01,0:13:02.24,Default,,0,0,0,,W-We're so sorry!
+Dialogue: 10,0:13:05.43,0:13:06.27,Default,,0,0,0,,There he is!
+Dialogue: 10,0:13:06.27,0:13:07.68,Default,,0,0,0,,Hakuya!
+Dialogue: 10,0:13:09.93,0:13:12.55,Default,,0,0,0,,W-Wait... up!
+Dialogue: 10,0:13:18.06,0:13:19.90,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}S-Sorry...
+Dialogue: 10,0:13:21.67,0:13:24.49,Default,,0,0,0,,About the injury?
+Dialogue: 10,0:13:24.49,0:13:26.99,Default,,0,0,0,,Y-Yeah.
+Dialogue: 10,0:13:29.30,0:13:30.74,Default,,0,0,0,,I'm sorry.
+Dialogue: 10,0:13:30.74,0:13:33.35,Default,,0,0,0,,If only I'd kept an eye on you,
+Dialogue: 10,0:13:33.35,0:13:35.64,Default,,0,0,0,,you wouldn't have gotten hurt.
+Dialogue: 10,0:13:35.64,0:13:36.67,Default,,0,0,0,,What?
+Dialogue: 10,0:13:36.67,0:13:39.52,Default,,0,0,0,,I-I'm the one who \Nshould be apologizing!
+Dialogue: 10,0:13:39.52,0:13:42.82,Default,,0,0,0,,You got hurt because of me.
+Dialogue: 10,0:13:42.82,0:13:46.68,Default,,0,0,0,,Well, I don't really \N{\alpha&HFF&\fscx40}...{\r}remember what happened...
+Dialogue: 10,0:13:47.94,0:13:50.80,Default,,0,0,0,,No, it was my fault.
+Dialogue: 10,0:13:50.80,0:13:51.97,Default,,0,0,0,,It was mine!
+Dialogue: 10,0:13:51.97,0:13:52.88,Default,,0,0,0,,Mine!
+Dialogue: 10,0:13:52.88,0:13:53.83,Default,,0,0,0,,Mine!
+Dialogue: 10,0:13:53.83,0:13:54.56,Default,,0,0,0,,Mine!
+Dialogue: 10,0:13:54.56,0:13:56.06,Default,,0,0,0,,Mine!
+Dialogue: 10,0:13:56.06,0:13:58.81,Default,,0,0,0,,Whoa! We're late!
+Dialogue: 10,0:14:01.15,0:14:03.85,Default,,0,0,0,,Hey, so, uh...
+Dialogue: 10,0:14:03.85,0:14:07.97,Default,,0,0,0,,This might come off a bit rude, \Nconsidering I don't remember any of it,
+Dialogue: 10,0:14:07.97,0:14:11.41,Default,,0,0,0,,but the only reason I'm \Nstanding here is thanks to you,
+Dialogue: 10,0:14:12.15,0:14:16.93,Default,,0,0,0,,so I figured I should th-thank you.
+Dialogue: 10,0:14:16.93,0:14:20.35,Default,,0,0,0,,I just didn't know how to face you.
+Dialogue: 10,0:14:21.22,0:14:24.09,Default,,0,0,0,,So, uh, I'm sorry about earlier.
+Dialogue: 10,0:14:25.26,0:14:28.94,Default,,0,0,0,,O-Oh, and since we're \Nnot getting anywhere,
+Dialogue: 10,0:14:28.94,0:14:31.35,Default,,0,0,0,,let's just call it even for now.
+Dialogue: 10,0:14:32.59,0:14:35.10,Default,,0,0,0,,I-Is that okay?
+Dialogue: 10,0:14:37.29,0:14:38.35,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:14:42.77,0:14:44.86,Default,,0,0,0,,A-Anyway, let's get going!
+Dialogue: 10,0:14:48.29,0:14:49.53,Default,,0,0,0,,We've gotta get to school!
+Dialogue: 10,0:14:49.53,0:14:52.87,Default,,0,0,0,,Hopefully we'll make it \Nin time for second period.
+Dialogue: 10,0:14:53.73,0:14:56.14,DefaultItalic,,0,0,0,,S-So he {\i0}can{\i1} smile.
+Dialogue: 10,0:14:56.14,0:14:57.76,DefaultItalic,,0,0,0,,That was the first time \NI've seen him do it.
+Dialogue: 10,0:15:06.92,0:15:07.73,Default,,0,0,0,,{*}Lady Benio{*Benio-sama}!
+Dialogue: 10,0:15:07.73,0:15:08.55,Default,,0,0,0,,Are you all right?!
+Dialogue: 10,0:15:08.55,0:15:09.71,Default,,0,0,0,,Don't tell me you're not feeling well!
+Dialogue: 10,0:15:09.71,0:15:10.67,Default,,0,0,0,,Are you ill?!
+Dialogue: 10,0:15:10.67,0:15:11.69,Default,,0,0,0,,Thank you.
+Dialogue: 10,0:15:11.69,0:15:13.14,Default,,0,0,0,,I'm fine.
+Dialogue: 10,0:15:15.07,0:15:17.15,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}N-Not this again...
+Dialogue: 10,0:15:17.15,0:15:18.93,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I feel like puking...
+Dialogue: 10,0:15:18.93,0:15:20.20,Default,,0,0,0,,This can only mean one thing:
+Dialogue: 10,0:15:20.20,0:15:21.68,Default,,0,0,0,,a romcom scene!
+Dialogue: 10,0:15:21.68,0:15:23.77,Default,,0,0,0,,Yeah, this is kind of its own disease.
+Dialogue: 10,0:15:23.77,0:15:26.07,Default,,0,0,0,,Oh, did you find Hakuya?
+Dialogue: 10,0:15:26.07,0:15:28.62,Default,,0,0,0,,H-He was over by the park.
+Dialogue: 10,0:15:28.62,0:15:31.38,Default,,0,0,0,,Don't worry about school, by the way.
+Dialogue: 10,0:15:31.38,0:15:35.24,Default,,0,0,0,,I pulled some strings and turned \Nfirst period into study hall.
+Dialogue: 10,0:15:35.24,0:15:37.32,Default,,0,0,0,,Oh, that's a relief.
+Dialogue: 10,0:15:37.32,0:15:39.25,Default,,0,0,0,,Wait, what do you mean by, \N"pulled some strings"?
+Dialogue: 10,0:15:39.25,0:15:41.15,Default,,0,0,0,,Oh, don't worry about it.
+Dialogue: 10,0:15:41.15,0:15:42.75,Default,,0,0,0,,It's nothing important.
+Dialogue: 10,0:15:46.38,0:15:48.14,Default,,0,0,0,,Anyway, I have to say,
+Dialogue: 10,0:15:48.14,0:15:50.17,Default,,0,0,0,,you sure can run fast, Hakuya.
+Dialogue: 10,0:15:53.93,0:15:55.47,Default,,0,0,0,,Yeah, that's right.
+Dialogue: 10,0:15:55.47,0:15:56.56,Default,,0,0,0,,He's super fast.
+Dialogue: 10,0:15:56.56,0:16:00.43,Default,,0,0,0,,He crossed mountains and valleys \Nto get to this town too.
+Dialogue: 10,0:16:00.43,0:16:02.69,Default,,0,0,0,,Wait, I thought you came by train?
+Dialogue: 10,0:16:02.69,0:16:04.26,Default,,0,0,0,,O-Of course we did!
+Dialogue: 10,0:16:04.26,0:16:06.47,Default,,0,0,0,,W-We went on tons of buses \Nand trains to get here!
+Dialogue: 10,0:16:06.47,0:16:08.94,Default,,0,0,0,,Do you even need to ask?
+Dialogue: 10,0:16:10.71,0:16:12.90,Default,,0,0,0,,Are you feeling better, Kobeni{**-chan}?
+Dialogue: 10,0:16:12.90,0:16:13.84,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:16:13.84,0:16:15.82,Default,,0,0,0,,Sorry to worry you.
+Dialogue: 10,0:16:19.98,0:16:21.35,Default,,0,0,0,,Your cheeks are still a bit red.
+Dialogue: 10,0:16:21.35,0:16:23.44,Default,,0,0,0,,Are you {\i1}sure{\i0} you're feeling better?
+Dialogue: 10,0:16:23.44,0:16:24.04,Default,,0,0,0,,Huh?
+Dialogue: 10,0:16:24.04,0:16:25.33,Default,,0,0,0,,No, no!
+Dialogue: 10,0:16:25.33,0:16:27.04,Default,,0,0,0,,I'm fine!
+Dialogue: 0,0:16:27.04,0:16:27.88,we mango now,,0,0,0,,{\blur0.6\fnAnkeSans\b1\fscx70\fscy70\frz353.2\bord1\fax0.2\c&H000000&\alpha&H30&\move(796.16,404.21,796.89,766.02,29,822)}{TS 16:27}Sick bag
+Dialogue: 1,0:16:27.04,0:16:27.88,we mango now,,0,0,0,,{\blur0.6\fnAnkeSans\b1\fscx70\fscy70\frz353.2\bord0\fax0.2\c&H72515C&\move(796.16,404.21,796.89,766.02,29,822)}{TS 16:27}Sick bag
+Dialogue: 10,0:16:27.04,0:16:29.06,Default,,0,0,0,,Did something happen?
+Dialogue: 10,0:16:29.06,0:16:30.96,Default,,0,0,0,,Did they raise some flags or something?!
+Dialogue: 10,0:16:30.96,0:16:32.28,Default,,0,0,0,,{*}Lady Benio{*Benio-sama},
+Dialogue: 10,0:16:32.28,0:16:35.30,Default,,0,0,0,,are you okay in the head?
+Dialogue: 10,0:16:35.30,0:16:40.02,Default,,0,0,0,,Oh, so Hakuya{**-kun} saved your life?
+Dialogue: 10,0:16:40.02,0:16:40.89,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:16:40.89,0:16:42.77,Default,,0,0,0,,I don't really remember it, though.
+Dialogue: 10,0:16:42.77,0:16:43.97,Default,,0,0,0,,Wow.
+Dialogue: 10,0:16:43.97,0:16:45.56,Default,,0,0,0,,You know what this means, don't you?
+Dialogue: 10,0:16:45.56,0:16:48.44,Default,,0,0,0,,It means you two must be soulmates!
+Dialogue: 10,0:16:48.44,0:16:49.46,Default,,0,0,0,,Huh?
+Dialogue: 10,0:16:49.46,0:16:52.53,Default,,0,0,0,,I mean, this doesn't happen all the time.
+Dialogue: 10,0:16:52.53,0:16:55.78,Default,,0,0,0,,It'd actually be strange \Nif you {\i1}weren't{\i0} soulmates.
+Dialogue: 10,0:16:55.78,0:16:58.29,Default,,0,0,0,,I bet you're made for each other!
+Dialogue: 10,0:16:58.29,0:16:59.50,Default,,0,0,0,,It might just be my \Nsixth sense talking, though!{spidey senses obv}
+Dialogue: 10,0:16:59.50,0:17:00.45,Default,,0,0,0,,Sixth sense?!
+Dialogue: 10,0:17:00.45,0:17:04.05,Default,,0,0,0,,Anyway, I've thought about this a lot,
+Dialogue: 10,0:17:04.05,0:17:07.46,Default,,0,0,0,,and I think I should try to \Nget to know him a little better.
+Dialogue: 10,0:17:07.46,0:17:08.91,Default,,0,0,0,,Really?
+Dialogue: 10,0:17:08.91,0:17:11.28,Default,,0,0,0,,Well, good luck. {lit. I'm rooting for you.}
+Dialogue: 10,0:17:13.08,0:17:15.59,Default,,0,0,0,,B-But I have no clue how to do it.
+Dialogue: 10,0:17:15.59,0:17:16.74,Default,,0,0,0,,Huh?
+Dialogue: 10,0:17:17.90,0:17:20.20,Default,,0,0,0,,I'll go ask for you, then.
+Dialogue: 10,0:17:21.10,0:17:22.94,Default,,0,0,0,,Hakuya{**-kun}, Hakuya{**-kun}.
+Dialogue: 10,0:17:22.94,0:17:26.85,Default,,0,0,0,,Um, what do you like?
+Dialogue: 10,0:17:27.87,0:17:28.86,Default,,0,0,0,,Kobeni.
+Dialogue: 10,0:17:34.86,0:17:36.06,Default,,0,0,0,,Oho?
+Dialogue: 10,0:17:36.06,0:17:38.30,Default,,0,0,0,,Now wasn't that sweet.
+Dialogue: 10,0:17:38.30,0:17:41.24,Default,,0,0,0,,Um, I'm glad you liked it.
+Dialogue: 10,0:17:44.35,0:17:47.00,Default,,0,0,0,,D-Don't just blurt it out like that!
+Dialogue: 10,0:17:47.52,0:17:49.50,Default,,0,0,0,,But she asked me what I liked.
+Dialogue: 10,0:17:49.50,0:17:52.00,Default,,0,0,0,,Stop looking like an abandoned puppy!
+Dialogue: 10,0:17:52.00,0:17:52.89,Default,,0,0,0,,Huh?
+Dialogue: 10,0:17:52.89,0:17:56.73,Default,,0,0,0,,I can't really tell the difference \Nbetween his expressions.
+Dialogue: 10,0:17:56.73,0:17:58.87,Default,,0,0,0,,It's pretty hard to tell, really.
+Dialogue: 10,0:17:58.87,0:18:02.49,Default,,0,0,0,,To be honest, I don't \Nget around 80% of it either.
+Dialogue: 10,0:18:02.49,0:18:05.55,Default,,0,0,0,,For his little sister, \Nthat's a pretty terrible percentage.
+Dialogue: 10,0:18:05.55,0:18:08.40,Default,,0,0,0,,But I'm surprised you can \Nread his expressions now.
+Dialogue: 10,0:18:08.40,0:18:11.52,Default,,0,0,0,,You two sure are \Ngetting closer, aren't you?
+Dialogue: 10,0:18:11.52,0:18:12.48,Default,,0,0,0,,What?!
+Dialogue: 10,0:18:18.28,0:18:19.35,Default,,0,0,0,,What the heck?!
+Dialogue: 10,0:18:19.35,0:18:20.74,Default,,0,0,0,,That's too blunt!
+Dialogue: 10,0:18:21.72,0:18:22.95,Default,,0,0,0,,That's not helping!
+Dialogue: 10,0:18:23.34,0:18:24.93,Default,,0,0,0,,What is this, a two-man play?
+Dialogue: 10,0:18:24.93,0:18:28.01,Default,,0,0,0,,I have no idea what you're doing.
+Dialogue: 10,0:18:28.01,0:18:29.18,Default,,0,0,0,,No!
+Dialogue: 10,0:18:29.18,0:18:30.41,Default,,0,0,0,,If you don't like it, I'll stop.
+Dialogue: 10,0:18:30.41,0:18:31.42,Default,,0,0,0,,Please do!
+Dialogue: 10,0:18:33.42,0:18:34.41,Default,,0,0,0,,Oh, come on!
+Dialogue: 10,0:18:34.41,0:18:35.84,Default,,0,0,0,,What am I supposed to do?!
+Dialogue: 10,0:18:36.98,0:18:42.72,Default,,0,0,0,,All I see is Hakuya{**-kun} \Nspacing out like he always does.
+Dialogue: 10,0:18:44.78,0:18:46.63,Default,,0,0,0,,What {\i1}is{\i0} this feeling?
+Dialogue: 10,0:18:46.63,0:18:48.78,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}If I had to describe it...
+Dialogue: 10,0:18:48.78,0:18:52.35,Default,,0,0,0,,Oh! It's like watching a dog \Nwho was all excited to go outside,
+Dialogue: 10,0:18:52.35,0:18:57.03,Default,,0,0,0,,{orusuban}but then got really depressed \Nwhen told to watch the house instead!
+Dialogue: 10,0:18:57.53,0:19:00.36,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I'm not too sure I understand...
+Dialogue: 10,0:19:00.36,0:19:04.02,Default,,0,0,0,,Anyway, Hakuya can't \Ngo on without you, Kobeni!
+Dialogue: 10,0:19:04.02,0:19:08.37,Default,,0,0,0,,Is it because he feels \Nresponsible for her getting hurt?
+Dialogue: 10,0:19:08.37,0:19:12.53,Default,,0,0,0,,Well, I can't really say much right now,
+Dialogue: 10,0:19:12.53,0:19:16.08,Default,,0,0,0,,but we were raised \Ndeep in the mountains.
+Dialogue: 10,0:19:16.08,0:19:20.63,Default,,0,0,0,,Kobeni was the first person \NHakuya met who was his age.
+Dialogue: 10,0:19:20.63,0:19:22.56,Default,,0,0,0,,So he loves you!
+Dialogue: 10,0:19:22.56,0:19:24.24,Default,,0,0,0,,What the heck is that? Imprinting?
+Dialogue: 10,0:19:24.24,0:19:26.82,Default,,0,0,0,,Like I said, it's complicated!
+Dialogue: 10,0:19:26.82,0:19:29.36,Default,,0,0,0,,But one thing's for sure: \Nit has to be you!
+Dialogue: 10,0:19:29.36,0:19:32.35,Default,,0,0,0,,We've got plenty of \Nfamily issues to deal with too!
+Dialogue: 10,0:19:32.97,0:19:36.86,Default,,0,0,0,,I don't know what I'd do \N{\alpha&HFF&\fscx60}...{\r}if Hakuya didn't have you...
+Dialogue: 10,0:19:36.86,0:19:39.61,Default,,0,0,0,,If the engagement were broken, \Nthen he'd be single for the rest of his life!
+Dialogue: 10,0:19:39.61,0:19:40.99,Default,,0,0,0,,{kodokushin}He'll die alone!
+Dialogue: 10,0:19:40.99,0:19:43.13,Default,,0,0,0,,Hey, don't cry!
+Dialogue: 10,0:19:43.13,0:19:45.37,Default,,0,0,0,,Why are you threatening me?
+Dialogue: 0,0:19:45.37,0:19:47.24,we mango now,,0,0,0,,{\blur0.6\fnChuu2-next\b1\c&H584B58&\fax-0.05\fscx70\fscy70\frz5.45\pos(717.631,426.761)}{TS 19:47}Student Council Office
+Dialogue: 10,0:19:48.86,0:19:50.75,Default,,0,0,0,,So yeah, he can run fast,
+Dialogue: 10,0:19:50.75,0:19:53.50,Default,,0,0,0,,but can that alone really make \Nhis movements look like that?
+Dialogue: 10,0:19:53.50,0:19:56.39,Default,,0,0,0,,Well, I didn't have my \Nglasses on at the time either.
+Dialogue: 10,0:19:56.39,0:19:57.36,Default,,0,0,0,,What's up?
+Dialogue: 10,0:19:57.36,0:20:00.61,Default,,0,0,0,,I don't think asking you \Nwould help me at all,
+Dialogue: 10,0:20:00.61,0:20:04.57,Default,,0,0,0,,but do you think I look better \Nwith or without glasses?
+Dialogue: 10,0:20:04.57,0:20:06.47,Default,,0,0,0,,I honestly couldn't care less.
+Dialogue: 10,0:20:06.47,0:20:09.85,Default,,0,0,0,,You probably shouldn't \Ninterfere with Kobeni too much.
+Dialogue: 10,0:20:09.85,0:20:11.10,Default,,0,0,0,,And why's that?
+Dialogue: 10,0:20:11.10,0:20:12.73,Default,,0,0,0,,She's not a kid anymore,
+Dialogue: 10,0:20:12.73,0:20:15.55,Default,,0,0,0,,so she'll just end up hating you \Nif you keep meddling in her affairs.
+Dialogue: 10,0:20:15.55,0:20:19.77,Default,,0,0,0,,You know, kind of like how \Ngirls tend to hate their fathers.
+Dialogue: 10,0:20:19.77,0:20:22.11,Default,,0,0,0,,I'm a girl too, you know!
+Dialogue: 10,0:20:22.11,0:20:26.22,Default,,0,0,0,,Besides, Kobeni wouldn't grow \Nto hate me over something like that.
+Dialogue: 10,0:20:26.22,0:20:28.04,Default,,0,0,0,,I guess,
+Dialogue: 10,0:20:28.04,0:20:30.37,Default,,0,0,0,,but it never hurts to be careful.
+Dialogue: 10,0:20:32.95,0:20:35.53,Default,,0,0,0,,It has nothing to do with you!
+Dialogue: 10,0:20:35.53,0:20:37.18,Default,,0,0,0,,Leave me alone!
+Dialogue: 10,0:20:37.18,0:20:39.54,Default,,0,0,0,,I don't want my laundry done with yours!
+Dialogue: 10,0:20:39.54,0:20:40.51,Default,,0,0,0,,Separate them!
+Dialogue: 10,0:20:40.51,0:20:42.13,Default,,0,0,0,,No!
+Dialogue: 10,0:20:42.13,0:20:44.63,Default,,0,0,0,,It might be a good thing in its own right!
+Dialogue: 10,0:20:44.63,0:20:46.14,Default,,0,0,0,,You're rotten to the core.
+Dialogue: 10,0:20:51.18,0:20:52.65,DefaultTop,,0,0,0,,That smells great.
+Dialogue: 10,0:20:52.65,0:20:55.40,DefaultTop,,0,0,0,,Your cooking really is the best, Kobeni.
+Dialogue: 10,0:20:55.40,0:20:57.73,DefaultTop,,0,0,0,,You're exaggerating.
+Dialogue: 10,0:20:57.73,0:21:01.62,DefaultTop,,0,0,0,,Do you know what Hakuya \Nand Mashiro's hometown is like?
+Dialogue: 10,0:21:01.62,0:21:03.74,Default,,0,0,0,,I hear it's pretty far up the mountains.
+Dialogue: 10,0:21:04.14,0:21:06.53,Default,,0,0,0,,I don't know much.
+Dialogue: 10,0:21:06.53,0:21:09.08,Default,,0,0,0,,I was pretty young back then too.
+Dialogue: 10,0:21:09.84,0:21:13.04,Default,,0,0,0,,I wonder what the \NMitsumine house is like.
+Dialogue: 10,0:21:14.41,0:21:16.68,Default,,0,0,0,,She found out about the injury,
+Dialogue: 10,0:21:16.68,0:21:19.27,Default,,0,0,0,,but things haven't really gone downhill.
+Dialogue: 10,0:21:19.27,0:21:21.25,Default,,0,0,0,,Isn't that great?
+Dialogue: 10,0:21:21.25,0:21:24.22,Default,,0,0,0,,But... what about our family?
+Dialogue: 10,0:21:24.22,0:21:27.18,Default,,0,0,0,,I don't know when to tell her \Nabout the Mitsumine family.
+Dialogue: 10,0:21:27.18,0:21:31.15,Default,,0,0,0,,You two need to get closer for that.
+Dialogue: 10,0:21:31.15,0:21:34.64,Default,,0,0,0,,I don't think she'd \Nunderstand otherwise.
+Dialogue: 10,0:21:34.64,0:21:37.56,Default,,0,0,0,,We're rather half-assed beings, after all.
+Dialogue: 10,0:21:41.65,0:21:43.37,Default,,0,0,0,,It's another letter from home.
+Dialogue: 10,0:21:43.37,0:21:46.74,Default,,0,0,0,,"We'll send someone over soon \N{\alpha&HFF&\fscx20}...{\r}to see how it's going."
+Dialogue: 10,0:21:47.33,0:21:48.40,Default,,0,0,0,,Oh?
+Dialogue: 10,0:21:52.66,0:21:53.66,Default,,0,0,0,,Wait, what?
+Dialogue: 0,0:21:59.29,0:22:00.88,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}Yes, curry is my favorite
+Dialogue: 0,0:21:59.29,0:22:00.88,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}sou desu curry wa daikoubutsu desu
+Dialogue: 10,0:21:59.33,0:23:24.63,Default,,0,0,0,,{ED}
+Dialogue: 0,0:22:00.88,0:22:02.38,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}tada yoku wo iwasete moraereba
+Dialogue: 0,0:22:00.88,0:22:02.38,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}But if I may be a bit greedy
+Dialogue: 0,0:22:02.38,0:22:05.72,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}{\3c&H204CDA&\c&HE4E8F5&}You prefer it mild, don't you?
+Dialogue: 0,0:22:02.38,0:22:05.72,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}{\3c&H204CDA&\c&HE4E8F5&}amakuchi ga iindeshou
+Dialogue: 0,0:22:20.02,0:22:21.86,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}mou nebaneba nattou mo mochiron
+Dialogue: 0,0:22:20.02,0:22:21.86,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}Oh, but sticky natto is fine by me too
+Dialogue: 0,0:22:21.86,0:22:23.78,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}I can eat it, no problem
+Dialogue: 0,0:22:21.86,0:22:23.78,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}zenzen heiki de taberaremasu
+Dialogue: 0,0:22:23.78,0:22:25.99,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}{\3c&HD2448B&\c&HF1E0EA&}nigate nan dana
+Dialogue: 0,0:22:23.78,0:22:25.99,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}{\3c&HD2448B&\c&HF1E0EA&}You don't like it, do you?
+Dialogue: 0,0:22:25.99,0:22:27.90,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}Sure, I may look a bit on the smaller side
+Dialogue: 0,0:22:25.99,0:22:27.90,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}mou mitame wa chokotto chikkoi desu ga
+Dialogue: 0,0:22:27.90,0:22:29.61,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}kore demo shikkari kojuuto dattari shimasu
+Dialogue: 0,0:22:27.90,0:22:29.61,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}But I'm a proper sister-in-law
+Dialogue: 0,0:22:29.61,0:22:32.37,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}{\3c&H2263BC&\c&HD7E3F3&}Look at you, pushing yourself (Yes!)
+Dialogue: 0,0:22:29.61,0:22:32.37,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}{\3c&H2263BC&\c&HD7E3F3&}senobi shichatte (yes!)
+Dialogue: 0,0:22:32.37,0:22:34.16,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}You can handle cooking, cleaning, and laundry just fine
+Dialogue: 0,0:22:32.37,0:22:34.16,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}ryouri mo souji mo sentaku mo daijoubu desu
+Dialogue: 0,0:22:34.16,0:22:35.33,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}Plus you have some great child bearing hips
+Dialogue: 0,0:22:34.16,0:22:35.33,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}soreni anzangata desu
+Dialogue: 0,0:22:35.33,0:22:38.37,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}{\3c&HD2448B&\c&HF1E0EA&}Hey, I'm conscious of that
+Dialogue: 0,0:22:35.33,0:22:38.37,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}{\3c&HD2448B&\c&HF1E0EA&}ki ni shiteru noni
+Dialogue: 0,0:22:38.37,0:22:39.83,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}You're so crazy at home
+Dialogue: 0,0:22:38.37,0:22:39.83,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}ie de wa annani annan nanoni
+Dialogue: 0,0:22:39.83,0:22:41.63,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}ittai douiu sennoujutsu desu ka
+Dialogue: 0,0:22:39.83,0:22:41.63,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}Did you brainwash the people at school?
+Dialogue: 0,0:22:41.63,0:22:44.30,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}{\3c&H2263BC&\c&HD7E3F3&}Aww, don't be jealous (Wow!)
+Dialogue: 0,0:22:41.63,0:22:44.30,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}{\3c&H2263BC&\c&HD7E3F3&}shitto shichattemo (wow!)
+Dialogue: 0,0:22:44.30,0:22:50.34,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}{\3c&H204CDA&\c&HE4E8F5&}shinpai da toka riyuu wo tsukete
+Dialogue: 0,0:22:44.30,0:22:50.34,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}{\3c&H204CDA&\c&HE4E8F5&}We make excuses, saying we're worried about you
+Dialogue: 0,0:22:50.34,0:22:55.22,Mikakunin DE Shinkoukei ED (Romaji),,0,0,0,,{\be1}{\3c&H204CDA&\c&HE4E8F5&}chakkari to ima senyuu seikou
+Dialogue: 0,0:22:50.34,0:22:55.22,Mikakunin DE Shinkoukei ED (English),,0,0,0,,{\be1}{\3c&H204CDA&\c&HE4E8F5&}And now we have exclusive possession of you
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k19\be1\b1\t(1340,1530,\1c&HA2D8A3&\fscy140\fscx140)\t(1435,1530,\fscy100\fscx100)\pos(620,54)\an5}ku
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k19\be1\b1\alpha&HC7&\blur1\t(1340,1530,\frz4\fscy120\fscx120)\t(1435,1530,\fscy140\fscx140)\t(1530,1730,\alpha&HFF&)\pos(620,54)\an5}ku
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k57\be1\b1\t(770,1340,\1c&HA2D8A3&\fscy140\fscx140)\t(1055,1340,\fscy100\fscx100)\pos(580,54)\an5}yo
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k71\be1\b1\t(2270,2980,\1c&HA2D8A3&\fscy140\fscx140)\t(2625,2980,\fscy100\fscx100)\pos(780,54)\an5}ra
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k20\be1\b1\t(570,770,\1c&HA2D8A3&\fscy140\fscx140)\t(670,770,\fscy100\fscx100)\pos(540,54)\an5}ka
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k20\be1\b1\alpha&HC7&\blur1\t(570,770,\frz4\fscy120\fscx120)\t(670,770,\fscy140\fscx140)\t(770,970,\alpha&HFF&)\pos(540,54)\an5}ka
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k57\be1\b1\t(0,570,\1c&HA2D8A3&\fscy140\fscx140)\t(285,570,\fscy100\fscx100)\pos(500,54)\an5}na
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k57\be1\b1\alpha&HC7&\blur1\t(0,570,\frz4\fscy120\fscx120)\t(285,570,\fscy140\fscx140)\t(570,770,\alpha&HFF&)\pos(500,54)\an5}na
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\t(0,0,\1c&HA2D8A3&\fscy140\fscx140)\t(0,0,\fscy100\fscx100)\pos(480,54)\an5}
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\alpha&HC7&\blur1\t(0,0,\frz4\fscy120\fscx120)\t(0,0,\fscy140\fscx140)\t(0,200,\alpha&HFF&)\pos(480,54)\an5}
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k19\be1\b1\t(2080,2270,\1c&HA2D8A3&\fscy140\fscx140)\t(2175,2270,\fscy100\fscx100)\pos(730,54)\an5}tta
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (English) 2,,0,0,0,,{\be1}Once we get close to each other
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k71\be1\b1\alpha&HC7&\blur1\t(2270,2980,\frz4\fscy120\fscx120)\t(2625,2980,\fscy140\fscx140)\t(2980,3180,\alpha&HFF&)\pos(780,54)\an5}ra
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k19\be1\b1\alpha&HC7&\blur1\t(2080,2270,\frz4\fscy120\fscx120)\t(2175,2270,\fscy140\fscx140)\t(2270,2470,\alpha&HFF&)\pos(730,54)\an5}tta
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k57\be1\b1\alpha&HC7&\blur1\t(770,1340,\frz4\fscy120\fscx120)\t(1055,1340,\fscy140\fscx140)\t(1340,1540,\alpha&HFF&)\pos(580,54)\an5}yo
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k55\be1\b1\t(1530,2080,\1c&HA2D8A3&\fscy140\fscx140)\t(1805,2080,\fscy100\fscx100)\pos(680,54)\an5}na
+Dialogue: 0,0:22:56.39,0:22:59.35,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k55\be1\b1\alpha&HC7&\blur1\t(1530,2080,\frz4\fscy120\fscx120)\t(1805,2080,\fscy140\fscx140)\t(2080,2280,\alpha&HFF&)\pos(680,54)\an5}na
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k37\be1\b1\t(0,370,\1c&HA2D8A3&\fscy140\fscx140)\t(185,370,\fscy100\fscx100)\pos(423,54)\an5}u
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k37\be1\b1\alpha&HC7&\blur1\t(0,370,\frz4\fscy120\fscx120)\t(185,370,\fscy140\fscx140)\t(370,570,\alpha&HFF&)\pos(423,54)\an5}u
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\t(0,0,\1c&HA2D8A3&\fscy140\fscx140)\t(0,0,\fscy100\fscx100)\pos(413,54)\an5}
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\alpha&HC7&\blur1\t(0,0,\frz4\fscy120\fscx120)\t(0,0,\fscy140\fscx140)\t(0,200,\alpha&HFF&)\pos(413,54)\an5}
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (English) 2,,0,0,0,,{\be1}And can't be frank anymore
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k34\be1\b1\t(2670,3010,\1c&HA2D8A3&\fscy140\fscx140)\t(2840,3010,\fscy100\fscx100)\pos(847,54)\an5}mo
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k34\be1\b1\alpha&HC7&\blur1\t(2670,3010,\frz4\fscy120\fscx120)\t(2840,3010,\fscy140\fscx140)\t(3010,3210,\alpha&HFF&)\pos(847,54)\an5}mo
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k44\be1\b1\t(2230,2670,\1c&HA2D8A3&\fscy140\fscx140)\t(2450,2670,\fscy100\fscx100)\pos(797,54)\an5}tte
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k44\be1\b1\alpha&HC7&\blur1\t(2230,2670,\frz4\fscy120\fscx120)\t(2450,2670,\fscy140\fscx140)\t(2670,2870,\alpha&HFF&)\pos(797,54)\an5}tte
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k34\be1\b1\t(1890,2230,\1c&HA2D8A3&\fscy140\fscx140)\t(2060,2230,\fscy100\fscx100)\pos(727,54)\an5}ccha
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k34\be1\b1\alpha&HC7&\blur1\t(1890,2230,\frz4\fscy120\fscx120)\t(2060,2230,\fscy140\fscx140)\t(2230,2430,\alpha&HFF&)\pos(727,54)\an5}ccha
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k50\be1\b1\t(1390,1890,\1c&HA2D8A3&\fscy140\fscx140)\t(1640,1890,\fscy100\fscx100)\pos(667,54)\an5}na
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k50\be1\b1\alpha&HC7&\blur1\t(1390,1890,\frz4\fscy120\fscx120)\t(1640,1890,\fscy140\fscx140)\t(1890,2090,\alpha&HFF&)\pos(667,54)\an5}na
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k22\be1\b1\t(1170,1390,\1c&HA2D8A3&\fscy140\fscx140)\t(1280,1390,\fscy100\fscx100)\pos(607,54)\an5}ku
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k22\be1\b1\alpha&HC7&\blur1\t(1170,1390,\frz4\fscy120\fscx120)\t(1280,1390,\fscy140\fscx140)\t(1390,1590,\alpha&HFF&)\pos(607,54)\an5}ku
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k17\be1\b1\t(1000,1170,\1c&HA2D8A3&\fscy140\fscx140)\t(1085,1170,\fscy100\fscx100)\pos(567,54)\an5}na
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k17\be1\b1\alpha&HC7&\blur1\t(1000,1170,\frz4\fscy120\fscx120)\t(1085,1170,\fscy140\fscx140)\t(1170,1370,\alpha&HFF&)\pos(567,54)\an5}na
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k14\be1\b1\t(860,1000,\1c&HA2D8A3&\fscy140\fscx140)\t(930,1000,\fscy100\fscx100)\pos(527,54)\an5}ke
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k14\be1\b1\alpha&HC7&\blur1\t(860,1000,\frz4\fscy120\fscx120)\t(930,1000,\fscy140\fscx140)\t(1000,1200,\alpha&HFF&)\pos(527,54)\an5}ke
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k25\be1\b1\t(610,860,\1c&HA2D8A3&\fscy140\fscx140)\t(735,860,\fscy100\fscx100)\pos(497,54)\an5}a
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k25\be1\b1\alpha&HC7&\blur1\t(610,860,\frz4\fscy120\fscx120)\t(735,860,\fscy140\fscx140)\t(860,1060,\alpha&HFF&)\pos(497,54)\an5}a
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k24\be1\b1\alpha&HC7&\blur1\t(370,610,\frz4\fscy120\fscx120)\t(490,610,\fscy140\fscx140)\t(610,810,\alpha&HFF&)\pos(460,54)\an5}chi
+Dialogue: 0,0:22:59.35,0:23:02.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k24\be1\b1\t(370,610,\1c&HA2D8A3&\fscy140\fscx140)\t(490,610,\fscy100\fscx100)\pos(460,54)\an5}chi
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k22\be1\b1\t(570,790,\1c&HA2D8A3&\fscy140\fscx140)\t(680,790,\fscy100\fscx100)\pos(543,54)\an5}i
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k72\be1\b1\alpha&HC7&\blur1\t(2280,3000,\frz4\fscy120\fscx120)\t(2640,3000,\fscy140\fscx140)\t(3000,3200,\alpha&HFF&)\pos(744,54)\an5}to
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (English) 2,,0,0,0,,{\be1}Will we still be able to understand
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\alpha&HC7&\blur1\t(0,0,\frz4\fscy120\fscx120)\t(0,0,\fscy140\fscx140)\t(0,200,\alpha&HFF&)\pos(516,54)\an5}
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\t(0,0,\1c&HA2D8A3&\fscy140\fscx140)\t(0,0,\fscy100\fscx100)\pos(516,54)\an5}
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k57\be1\b1\alpha&HC7&\blur1\t(0,570,\frz4\fscy120\fscx120)\t(285,570,\fscy140\fscx140)\t(570,770,\alpha&HFF&)\pos(526,54)\an5}a
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k57\be1\b1\t(0,570,\1c&HA2D8A3&\fscy140\fscx140)\t(285,570,\fscy100\fscx100)\pos(526,54)\an5}a
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k22\be1\b1\alpha&HC7&\blur1\t(570,790,\frz4\fscy120\fscx120)\t(680,790,\fscy140\fscx140)\t(790,990,\alpha&HFF&)\pos(543,54)\an5}i
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k54\be1\b1\t(790,1330,\1c&HA2D8A3&\fscy140\fscx140)\t(1060,1330,\fscy100\fscx100)\pos(570,54)\an5}ma
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k54\be1\b1\alpha&HC7&\blur1\t(790,1330,\frz4\fscy120\fscx120)\t(1060,1330,\fscy140\fscx140)\t(1330,1530,\alpha&HFF&)\pos(570,54)\an5}ma
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k72\be1\b1\t(2280,3000,\1c&HA2D8A3&\fscy140\fscx140)\t(2640,3000,\fscy100\fscx100)\pos(744,54)\an5}to
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k21\be1\b1\alpha&HC7&\blur1\t(1330,1540,\frz4\fscy120\fscx120)\t(1435,1540,\fscy140\fscx140)\t(1540,1740,\alpha&HFF&)\pos(597,54)\an5}i
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k21\be1\b1\t(1330,1540,\1c&HA2D8A3&\fscy140\fscx140)\t(1435,1540,\fscy100\fscx100)\pos(597,54)\an5}i
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k56\be1\b1\alpha&HC7&\blur1\t(1540,2100,\frz4\fscy120\fscx120)\t(1820,2100,\fscy140\fscx140)\t(2100,2300,\alpha&HFF&)\pos(643,54)\an5}na
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k56\be1\b1\t(1540,2100,\1c&HA2D8A3&\fscy140\fscx140)\t(1820,2100,\fscy100\fscx100)\pos(643,54)\an5}na
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k18\be1\b1\alpha&HC7&\blur1\t(2100,2280,\frz4\fscy120\fscx120)\t(2190,2280,\fscy140\fscx140)\t(2280,2480,\alpha&HFF&)\pos(703,54)\an5}ko
+Dialogue: 0,0:23:02.36,0:23:05.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k18\be1\b1\t(2100,2280,\1c&HA2D8A3&\fscy140\fscx140)\t(2190,2280,\fscy100\fscx100)\pos(703,54)\an5}ko
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k20\be1\b1\t(1900,2100,\1c&HA2D8A3&\fscy140\fscx140)\t(2000,2100,\fscy100\fscx100)\pos(740,54)\an5}ka
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k39\be1\b1\alpha&HC7&\blur1\t(1340,1730,\frz4\fscy120\fscx120)\t(1535,1730,\fscy140\fscx140)\t(1730,1930,\alpha&HFF&)\pos(643,54)\an5}ki
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k47\be1\b1\t(2100,2570,\1c&HA2D8A3&\fscy140\fscx140)\t(2335,2570,\fscy100\fscx100)\pos(780,54)\an5}na
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k36\be1\b1\t(980,1340,\1c&HA2D8A3&\fscy140\fscx140)\t(1160,1340,\fscy100\fscx100)\pos(607,54)\an5}de
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k36\be1\b1\alpha&HC7&\blur1\t(980,1340,\frz4\fscy120\fscx120)\t(1160,1340,\fscy140\fscx140)\t(1340,1540,\alpha&HFF&)\pos(607,54)\an5}de
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k38\be1\b1\t(600,980,\1c&HA2D8A3&\fscy140\fscx140)\t(790,980,\fscy100\fscx100)\pos(560,54)\an5}i
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k38\be1\b1\alpha&HC7&\blur1\t(600,980,\frz4\fscy120\fscx120)\t(790,980,\fscy140\fscx140)\t(980,1180,\alpha&HFF&)\pos(560,54)\an5}i
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k20\be1\b1\alpha&HC7&\blur1\t(400,600,\frz4\fscy120\fscx120)\t(500,600,\fscy140\fscx140)\t(600,800,\alpha&HFF&)\pos(533,54)\an5}ka
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k40\be1\b1\t(0,400,\1c&HA2D8A3&\fscy140\fscx140)\t(200,400,\fscy100\fscx100)\pos(496,54)\an5}ri
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k40\be1\b1\alpha&HC7&\blur1\t(0,400,\frz4\fscy120\fscx120)\t(200,400,\fscy140\fscx140)\t(400,600,\alpha&HFF&)\pos(496,54)\an5}ri
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\t(0,0,\1c&HA2D8A3&\fscy140\fscx140)\t(0,0,\fscy100\fscx100)\pos(480,54)\an5}
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (English) 2,,0,0,0,,{\be1}What's left unsaid?
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\alpha&HC7&\blur1\t(0,0,\frz4\fscy120\fscx120)\t(0,0,\fscy140\fscx140)\t(0,200,\alpha&HFF&)\pos(480,54)\an5}
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k20\be1\b1\t(400,600,\1c&HA2D8A3&\fscy140\fscx140)\t(500,600,\fscy100\fscx100)\pos(533,54)\an5}ka
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k17\be1\b1\alpha&HC7&\blur1\t(1730,1900,\frz4\fscy120\fscx120)\t(1815,1900,\fscy140\fscx140)\t(1900,2100,\alpha&HFF&)\pos(680,54)\an5}ru
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k39\be1\b1\t(1340,1730,\1c&HA2D8A3&\fscy140\fscx140)\t(1535,1730,\fscy100\fscx100)\pos(643,54)\an5}ki
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k17\be1\b1\t(1730,1900,\1c&HA2D8A3&\fscy140\fscx140)\t(1815,1900,\fscy100\fscx100)\pos(680,54)\an5}ru
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k20\be1\b1\alpha&HC7&\blur1\t(1900,2100,\frz4\fscy120\fscx120)\t(2000,2100,\fscy140\fscx140)\t(2100,2300,\alpha&HFF&)\pos(740,54)\an5}ka
+Dialogue: 0,0:23:05.36,0:23:07.94,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k47\be1\b1\alpha&HC7&\blur1\t(2100,2570,\frz4\fscy120\fscx120)\t(2335,2570,\fscy140\fscx140)\t(2570,2770,\alpha&HFF&)\pos(780,54)\an5}na
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\alpha&HC7&\blur1\t(0,0,\frz4\fscy120\fscx120)\t(0,0,\fscy140\fscx140)\t(0,200,\alpha&HFF&)\pos(430,54)\an5}
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\t(0,0,\1c&HA2D8A3&\fscy140\fscx140)\t(0,0,\fscy100\fscx100)\pos(430,54)\an5}
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k56\be1\b1\alpha&HC7&\blur1\t(0,560,\frz4\fscy120\fscx120)\t(280,560,\fscy140\fscx140)\t(560,760,\alpha&HFF&)\pos(450,54)\an5}so
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k56\be1\b1\t(0,560,\1c&HA2D8A3&\fscy140\fscx140)\t(280,560,\fscy100\fscx100)\pos(450,54)\an5}so
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k28\be1\b1\alpha&HC7&\blur1\t(560,840,\frz4\fscy120\fscx120)\t(700,840,\fscy140\fscx140)\t(840,1040,\alpha&HFF&)\pos(500,54)\an5}rya
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k28\be1\b1\t(560,840,\1c&HA2D8A3&\fscy140\fscx140)\t(700,840,\fscy100\fscx100)\pos(500,54)\an5}rya
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k52\be1\b1\alpha&HC7&\blur1\t(840,1360,\frz4\fscy120\fscx120)\t(1100,1360,\fscy140\fscx140)\t(1360,1560,\alpha&HFF&)\pos(580,54)\an5}maa
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k52\be1\b1\t(840,1360,\1c&HA2D8A3&\fscy140\fscx140)\t(1100,1360,\fscy100\fscx100)\pos(580,54)\an5}maa
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k24\be1\b1\alpha&HC7&\blur1\t(1360,1600,\frz4\fscy120\fscx120)\t(1480,1600,\fscy140\fscx140)\t(1600,1800,\alpha&HFF&)\pos(640,54)\an5}o
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k16\be1\b1\t(2180,2340,\1c&HA2D8A3&\fscy140\fscx140)\t(2260,2340,\fscy100\fscx100)\pos(790,54)\an5}to
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k39\be1\b1\alpha&HC7&\blur1\t(1600,1990,\frz4\fscy120\fscx120)\t(1795,1990,\fscy140\fscx140)\t(1990,2190,\alpha&HFF&)\pos(670,54)\an5}ya
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k39\be1\b1\t(1600,1990,\1c&HA2D8A3&\fscy140\fscx140)\t(1795,1990,\fscy100\fscx100)\pos(670,54)\an5}ya
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k19\be1\b1\alpha&HC7&\blur1\t(1990,2180,\frz4\fscy120\fscx120)\t(2085,2180,\fscy140\fscx140)\t(2180,2380,\alpha&HFF&)\pos(720,54)\an5}tsu
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k19\be1\b1\t(1990,2180,\1c&HA2D8A3&\fscy140\fscx140)\t(2085,2180,\fscy100\fscx100)\pos(720,54)\an5}tsu
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k16\be1\b1\alpha&HC7&\blur1\t(2180,2340,\frz4\fscy120\fscx120)\t(2260,2340,\fscy140\fscx140)\t(2340,2540,\alpha&HFF&)\pos(790,54)\an5}to
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k71\be1\b1\alpha&HC7&\blur1\t(2340,3050,\frz4\fscy120\fscx120)\t(2695,3050,\fscy140\fscx140)\t(3050,3250,\alpha&HFF&)\pos(830,54)\an5}ka
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k71\be1\b1\t(2340,3050,\1c&HA2D8A3&\fscy140\fscx140)\t(2695,3050,\fscy100\fscx100)\pos(830,54)\an5}ka
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (English) 2,,0,0,0,,{\be1}My love for snacks and other things
+Dialogue: 0,0:23:08.32,0:23:11.36,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k24\be1\b1\t(1360,1600,\1c&HA2D8A3&\fscy140\fscx140)\t(1480,1600,\fscy100\fscx100)\pos(640,54)\an5}o
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k27\be1\b1\t(1910,2180,\1c&HA2D8A3&\fscy140\fscx140)\t(2045,2180,\fscy100\fscx100)\pos(697,54)\an5}de
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k27\be1\b1\alpha&HC7&\blur1\t(1910,2180,\frz4\fscy120\fscx120)\t(2045,2180,\fscy140\fscx140)\t(2180,2380,\alpha&HFF&)\pos(697,54)\an5}de
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k54\be1\b1\t(1370,1910,\1c&HA2D8A3&\fscy140\fscx140)\t(1640,1910,\fscy100\fscx100)\pos(650,54)\an5}i
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k54\be1\b1\alpha&HC7&\blur1\t(1370,1910,\frz4\fscy120\fscx120)\t(1640,1910,\fscy140\fscx140)\t(1910,2110,\alpha&HFF&)\pos(650,54)\an5}i
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k20\be1\b1\t(1170,1370,\1c&HA2D8A3&\fscy140\fscx140)\t(1270,1370,\fscy100\fscx100)\pos(613,54)\an5}ppo
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k20\be1\b1\alpha&HC7&\blur1\t(1170,1370,\frz4\fscy120\fscx120)\t(1270,1370,\fscy140\fscx140)\t(1370,1570,\alpha&HFF&)\pos(613,54)\an5}ppo
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k56\be1\b1\t(610,1170,\1c&HA2D8A3&\fscy140\fscx140)\t(890,1170,\fscy100\fscx100)\pos(563,54)\an5}mo
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k42\be1\b1\alpha&HC7&\blur1\t(2180,2600,\frz4\fscy120\fscx120)\t(2390,2600,\fscy140\fscx140)\t(2600,2800,\alpha&HFF&)\pos(737,54)\an5}su
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k18\be1\b1\t(430,610,\1c&HA2D8A3&\fscy140\fscx140)\t(520,610,\fscy100\fscx100)\pos(523,54)\an5}do
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k18\be1\b1\alpha&HC7&\blur1\t(430,610,\frz4\fscy120\fscx120)\t(520,610,\fscy140\fscx140)\t(610,810,\alpha&HFF&)\pos(523,54)\an5}do
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k43\be1\b1\t(0,430,\1c&HA2D8A3&\fscy140\fscx140)\t(215,430,\fscy100\fscx100)\pos(483,54)\an5}ko
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k43\be1\b1\alpha&HC7&\blur1\t(0,430,\frz4\fscy120\fscx120)\t(215,430,\fscy140\fscx140)\t(430,630,\alpha&HFF&)\pos(483,54)\an5}ko
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\t(0,0,\1c&HA2D8A3&\fscy140\fscx140)\t(0,0,\fscy100\fscx100)\pos(463,54)\an5}
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\alpha&HC7&\blur1\t(0,0,\frz4\fscy120\fscx120)\t(0,0,\fscy140\fscx140)\t(0,200,\alpha&HFF&)\pos(463,54)\an5}
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (English) 2,,0,0,0,,{\be1}May make me seem childish
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k39\be1\b1\alpha&HC7&\blur1\t(2600,2990,\frz4\fscy120\fscx120)\t(2795,2990,\fscy140\fscx140)\t(2990,3190,\alpha&HFF&)\pos(797,54)\an5}ne
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k39\be1\b1\t(2600,2990,\1c&HA2D8A3&\fscy140\fscx140)\t(2795,2990,\fscy100\fscx100)\pos(797,54)\an5}ne
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k56\be1\b1\alpha&HC7&\blur1\t(610,1170,\frz4\fscy120\fscx120)\t(890,1170,\fscy140\fscx140)\t(1170,1370,\alpha&HFF&)\pos(563,54)\an5}mo
+Dialogue: 0,0:23:11.36,0:23:14.37,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k42\be1\b1\t(2180,2600,\1c&HA2D8A3&\fscy140\fscx140)\t(2390,2600,\fscy100\fscx100)\pos(737,54)\an5}su
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k12\be1\b1\alpha&HC7&\blur1\t(4000,4120,\frz4\fscy120\fscx120)\t(4060,4120,\fscy140\fscx140)\t(4120,4320,\alpha&HFF&)\pos(703,54)\an5}ku
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k18\be1\b1\alpha&HC7&\blur1\t(2120,2300,\frz4\fscy120\fscx120)\t(2210,2300,\fscy140\fscx140)\t(2300,2500,\alpha&HFF&)\pos(493,54)\an5}t
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k59\be1\b1\alpha&HC7&\blur1\t(1530,2120,\frz4\fscy120\fscx120)\t(1825,2120,\fscy140\fscx140)\t(2120,2320,\alpha&HFF&)\pos(463,54)\an5}zu
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k17\be1\b1\t(1360,1530,\1c&HA2D8A3&\fscy140\fscx140)\t(1445,1530,\fscy100\fscx100)\pos(403,54)\an5}mo
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k17\be1\b1\alpha&HC7&\blur1\t(1360,1530,\frz4\fscy120\fscx120)\t(1445,1530,\fscy140\fscx140)\t(1530,1730,\alpha&HFF&)\pos(403,54)\an5}mo
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k55\be1\b1\t(810,1360,\1c&HA2D8A3&\fscy140\fscx140)\t(1085,1360,\fscy100\fscx100)\pos(363,54)\an5}de
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k55\be1\b1\alpha&HC7&\blur1\t(810,1360,\frz4\fscy120\fscx120)\t(1085,1360,\fscy140\fscx140)\t(1360,1560,\alpha&HFF&)\pos(363,54)\an5}de
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k19\be1\b1\t(620,810,\1c&HA2D8A3&\fscy140\fscx140)\t(715,810,\fscy100\fscx100)\pos(303,54)\an5}re
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k19\be1\b1\alpha&HC7&\blur1\t(620,810,\frz4\fscy120\fscx120)\t(715,810,\fscy140\fscx140)\t(810,1010,\alpha&HFF&)\pos(303,54)\an5}re
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k62\be1\b1\t(0,620,\1c&HA2D8A3&\fscy140\fscx140)\t(310,620,\fscy100\fscx100)\pos(263,54)\an5}so
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k62\be1\b1\alpha&HC7&\blur1\t(0,620,\frz4\fscy120\fscx120)\t(310,620,\fscy140\fscx140)\t(620,820,\alpha&HFF&)\pos(263,54)\an5}so
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (English) 2,,0,0,0,,{\be1}But will you still be my friend forever?
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\t(0,0,\1c&HA2D8A3&\fscy140\fscx140)\t(0,0,\fscy100\fscx100)\pos(243,54)\an5}
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k0\be1\b1\alpha&HC7&\blur1\t(0,0,\frz4\fscy120\fscx120)\t(0,0,\fscy140\fscx140)\t(0,200,\alpha&HFF&)\pos(243,54)\an5}
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k151\be1\b1\t(6050,7560,\1c&HA2D8A3&\fscy140\fscx140)\t(6805,7560,\fscy100\fscx100)\pos(1017,54)\an5}ka
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k30\be1\b1\t(5750,6050,\1c&HA2D8A3&\fscy140\fscx140)\t(5900,6050,\fscy100\fscx100)\pos(977,54)\an5}su
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k30\be1\b1\alpha&HC7&\blur1\t(5750,6050,\frz4\fscy120\fscx120)\t(5900,6050,\fscy140\fscx140)\t(6050,6250,\alpha&HFF&)\pos(977,54)\an5}su
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k25\be1\b1\t(5500,5750,\1c&HA2D8A3&\fscy140\fscx140)\t(5625,5750,\fscy100\fscx100)\pos(937,54)\an5}ma
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k18\be1\b1\t(2120,2300,\1c&HA2D8A3&\fscy140\fscx140)\t(2210,2300,\fscy100\fscx100)\pos(493,54)\an5}t
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k74\be1\b1\alpha&HC7&\blur1\t(2300,3040,\frz4\fscy120\fscx120)\t(2670,3040,\fscy140\fscx140)\t(3040,3240,\alpha&HFF&)\pos(523,54)\an5}to
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k74\be1\b1\t(2300,3040,\1c&HA2D8A3&\fscy140\fscx140)\t(2670,3040,\fscy100\fscx100)\pos(523,54)\an5}to
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k39\be1\b1\alpha&HC7&\blur1\t(3040,3430,\frz4\fscy120\fscx120)\t(3235,3430,\fscy140\fscx140)\t(3430,3630,\alpha&HFF&)\pos(583,54)\an5}na
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k39\be1\b1\t(3040,3430,\1c&HA2D8A3&\fscy140\fscx140)\t(3235,3430,\fscy100\fscx100)\pos(583,54)\an5}na
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k19\be1\b1\alpha&HC7&\blur1\t(3430,3620,\frz4\fscy120\fscx120)\t(3525,3620,\fscy140\fscx140)\t(3620,3820,\alpha&HFF&)\pos(623,54)\an5}ka
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k19\be1\b1\t(3430,3620,\1c&HA2D8A3&\fscy140\fscx140)\t(3525,3620,\fscy100\fscx100)\pos(623,54)\an5}ka
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k38\be1\b1\alpha&HC7&\blur1\t(3620,4000,\frz4\fscy120\fscx120)\t(3810,4000,\fscy140\fscx140)\t(4000,4200,\alpha&HFF&)\pos(663,54)\an5}yo
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k38\be1\b1\t(3620,4000,\1c&HA2D8A3&\fscy140\fscx140)\t(3810,4000,\fscy100\fscx100)\pos(663,54)\an5}yo
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k59\be1\b1\t(1530,2120,\1c&HA2D8A3&\fscy140\fscx140)\t(1825,2120,\fscy100\fscx100)\pos(463,54)\an5}zu
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k12\be1\b1\t(4000,4120,\1c&HA2D8A3&\fscy140\fscx140)\t(4060,4120,\fscy100\fscx100)\pos(703,54)\an5}ku
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k24\be1\b1\alpha&HC7&\blur1\t(4120,4360,\frz4\fscy120\fscx120)\t(4240,4360,\fscy140\fscx140)\t(4360,4560,\alpha&HFF&)\pos(750,54)\an5}shi
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k24\be1\b1\t(4120,4360,\1c&HA2D8A3&\fscy140\fscx140)\t(4240,4360,\fscy100\fscx100)\pos(750,54)\an5}shi
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k57\be1\b1\alpha&HC7&\blur1\t(4360,4930,\frz4\fscy120\fscx120)\t(4645,4930,\fscy140\fscx140)\t(4930,5130,\alpha&HFF&)\pos(797,54)\an5}te
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k57\be1\b1\t(4360,4930,\1c&HA2D8A3&\fscy140\fscx140)\t(4645,4930,\fscy100\fscx100)\pos(797,54)\an5}te
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k22\be1\b1\alpha&HC7&\blur1\t(4930,5150,\frz4\fscy120\fscx120)\t(5040,5150,\fscy140\fscx140)\t(5150,5350,\alpha&HFF&)\pos(857,54)\an5}ku
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k151\be1\b1\alpha&HC7&\blur1\t(6050,7560,\frz4\fscy120\fscx120)\t(6805,7560,\fscy140\fscx140)\t(7560,7760,\alpha&HFF&)\pos(1017,54)\an5}ka
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k22\be1\b1\t(4930,5150,\1c&HA2D8A3&\fscy140\fscx140)\t(5040,5150,\fscy100\fscx100)\pos(857,54)\an5}ku
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k35\be1\b1\alpha&HC7&\blur1\t(5150,5500,\frz4\fscy120\fscx120)\t(5325,5500,\fscy140\fscx140)\t(5500,5700,\alpha&HFF&)\pos(897,54)\an5}re
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k35\be1\b1\t(5150,5500,\1c&HA2D8A3&\fscy140\fscx140)\t(5325,5500,\fscy100\fscx100)\pos(897,54)\an5}re
+Dialogue: 0,0:23:14.37,0:23:21.92,Mikakunin DE Shinkoukei ED (Romaji) 2,,0,0,0,fx,{\r\k25\be1\b1\alpha&HC7&\blur1\t(5500,5750,\frz4\fscy120\fscx120)\t(5625,5750,\fscy140\fscx140)\t(5750,5950,\alpha&HFF&)\pos(937,54)\an5}ma
+Dialogue: 0,0:23:24.63,0:23:29.47,we mango now,,0,0,0,,{\an5\bord0\blur1\pos(936.979,266.159)\p1\c&HFEFEFE&\fscx113\fscy311}m 0 0 l 100 0 100 100 0 100
+Dialogue: 0,0:23:24.63,0:23:29.47,we mango now,,0,0,0,,{\an5\bord0\blur1\p1\c&HFEFEFE&\pos(368.293,429.474)\fscx119\fscy359}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:24.63,0:23:29.47,we mango now,,0,0,0,,{\blur0.6\pos(380.02,418.64)\fscx70\fscy70}{TS 23:25}That way, \Nit'll put \Na stop \Nto these \Nfeelings. {match}
+Dialogue: 1,0:23:24.63,0:23:29.47,we mango now,,0,0,0,,{\blur0.6\fscx70\fscy70\pos(936.979,266.159)}{TS 23:25}I'll go\N back in \Ntime \Nand \Npunch\Nmyself... {match}
+Dialogue: 10,0:23:24.63,0:23:27.01,Default,,0,0,20,,{\alpha&HFF&\fscx60}...{\r}I'll go back in time and punch myself...
+Dialogue: 10,0:23:27.01,0:23:29.47,Default,,0,0,20,,That way, it'll put a stop to these feelings.
+Dialogue: 10,0:23:31.02,0:23:33.25,Default,,0,0,20,,{Ahhhhh!}
+Dialogue: 0,0:23:31.09,0:23:31.13,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(958,347)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.09,0:23:31.13,we mango now,,0,0,0,,{\blur0.6\pos(961,323)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.13,0:23:31.22,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(961.59,343.19)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.13,0:23:31.22,we mango now,,0,0,0,,{\blur0.6\pos(964.59,319.19)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.22,0:23:31.26,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(961.07,342.19)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.22,0:23:31.26,we mango now,,0,0,0,,{\blur0.6\pos(964.07,318.19)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.26,0:23:31.30,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(958.34,341.17)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.26,0:23:31.30,we mango now,,0,0,0,,{\blur0.6\pos(961.34,317.17)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.30,0:23:31.34,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(955.95,339.86)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.30,0:23:31.34,we mango now,,0,0,0,,{\blur0.6\pos(958.95,315.86)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.34,0:23:31.38,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(958.02,343.16)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.34,0:23:31.38,we mango now,,0,0,0,,{\blur0.6\pos(961.02,319.16)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.38,0:23:31.43,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(958.47,345.75)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.38,0:23:31.43,we mango now,,0,0,0,,{\blur0.6\pos(961.47,321.75)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.43,0:23:31.47,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(958.73,348.1)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.43,0:23:31.47,we mango now,,0,0,0,,{\blur0.6\pos(961.73,324.1)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.47,0:23:31.51,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(961.88,347.36)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.47,0:23:31.51,we mango now,,0,0,0,,{\blur0.6\pos(964.88,323.36)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.51,0:23:31.55,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(960.84,347.38)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.51,0:23:31.55,we mango now,,0,0,0,,{\blur0.6\pos(963.84,323.38)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.55,0:23:31.59,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(950.61,342.64)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.55,0:23:31.59,we mango now,,0,0,0,,{\blur0.6\pos(953.61,318.64)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.59,0:23:31.64,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(951.38,340.85)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.59,0:23:31.64,we mango now,,0,0,0,,{\blur0.6\pos(954.38,316.85)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.64,0:23:31.68,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(954.05,346.34)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.64,0:23:31.68,we mango now,,0,0,0,,{\blur0.6\pos(957.05,322.34)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.68,0:23:31.72,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(955.69,346.3)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.68,0:23:31.72,we mango now,,0,0,0,,{\blur0.6\pos(958.69,322.3)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.72,0:23:31.76,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(953.91,339.05)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.72,0:23:31.76,we mango now,,0,0,0,,{\blur0.6\pos(956.91,315.05)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.76,0:23:31.80,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(953.94,336.8)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.76,0:23:31.80,we mango now,,0,0,0,,{\blur0.6\pos(956.94,312.8)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.80,0:23:31.84,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(953.4,338.75)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.80,0:23:31.84,we mango now,,0,0,0,,{\blur0.6\pos(956.4,314.75)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.84,0:23:31.89,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(950.11,339.88)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.84,0:23:31.89,we mango now,,0,0,0,,{\blur0.6\pos(953.11,315.88)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.89,0:23:31.93,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(950.67,341.83)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.89,0:23:31.93,we mango now,,0,0,0,,{\blur0.6\pos(953.67,317.83)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.93,0:23:31.97,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(950.96,346.05)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.93,0:23:31.97,we mango now,,0,0,0,,{\blur0.6\pos(953.96,322.05)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:31.97,0:23:32.01,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(949.8,342.32)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:31.97,0:23:32.01,we mango now,,0,0,0,,{\blur0.6\pos(952.8,318.32)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.01,0:23:32.05,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(952.36,342.88)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.01,0:23:32.05,we mango now,,0,0,0,,{\blur0.6\pos(955.36,318.88)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.05,0:23:32.09,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(953.71,341.76)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.05,0:23:32.09,we mango now,,0,0,0,,{\blur0.6\pos(956.71,317.76)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.09,0:23:32.14,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(960.7,339.51)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.09,0:23:32.14,we mango now,,0,0,0,,{\blur0.6\pos(963.7,315.51)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.14,0:23:32.18,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(961.65,340.67)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.14,0:23:32.18,we mango now,,0,0,0,,{\blur0.6\pos(964.65,316.67)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.18,0:23:32.22,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(954.62,341.88)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.18,0:23:32.22,we mango now,,0,0,0,,{\blur0.6\pos(957.62,317.88)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.22,0:23:32.26,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(953.52,344.12)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.22,0:23:32.26,we mango now,,0,0,0,,{\blur0.6\pos(956.52,320.12)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.26,0:23:32.30,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(960.96,347.77)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.26,0:23:32.30,we mango now,,0,0,0,,{\blur0.6\pos(963.96,323.77)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.30,0:23:32.34,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(961.42,343.75)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.30,0:23:32.34,we mango now,,0,0,0,,{\blur0.6\pos(964.42,319.75)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.34,0:23:32.39,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(957.3,341.39)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.34,0:23:32.39,we mango now,,0,0,0,,{\blur0.6\pos(960.3,317.39)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.39,0:23:32.43,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(950.59,340.16)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.39,0:23:32.43,we mango now,,0,0,0,,{\blur0.6\pos(953.59,316.16)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.43,0:23:32.47,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(954.63,343.11)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.43,0:23:32.47,we mango now,,0,0,0,,{\blur0.6\pos(957.63,319.11)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.47,0:23:32.51,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(960.38,340.12)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.47,0:23:32.51,we mango now,,0,0,0,,{\blur0.6\pos(963.38,316.12)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.51,0:23:32.55,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(957.13,343.12)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.51,0:23:32.55,we mango now,,0,0,0,,{\blur0.6\pos(960.13,319.12)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.55,0:23:32.59,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(955.37,348.75)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.55,0:23:32.59,we mango now,,0,0,0,,{\blur0.6\pos(958.37,324.75)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.59,0:23:32.64,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(953.12,348.86)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.59,0:23:32.64,we mango now,,0,0,0,,{\blur0.6\pos(956.12,324.86)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.64,0:23:32.68,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(951.21,343.95)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.64,0:23:32.68,we mango now,,0,0,0,,{\blur0.6\pos(954.21,319.95)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.68,0:23:32.72,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(948.13,346.62)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.68,0:23:32.72,we mango now,,0,0,0,,{\blur0.6\pos(951.13,322.62)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.72,0:23:32.76,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(951.63,348.85)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.72,0:23:32.76,we mango now,,0,0,0,,{\blur0.6\pos(954.63,324.85)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.76,0:23:32.80,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(954.43,345.8)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.76,0:23:32.80,we mango now,,0,0,0,,{\blur0.6\pos(957.43,321.8)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.80,0:23:32.84,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(950.27,341.56)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.80,0:23:32.84,we mango now,,0,0,0,,{\blur0.6\pos(953.27,317.56)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:32.84,0:23:32.89,we mango now,,0,0,0,,{\an5\bord0\blur3\p1\pos(948.93,345.32)\fscx91\fscy477\c&HFFFFFF&}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:23:32.84,0:23:32.89,we mango now,,0,0,0,,{\blur0.6\pos(951.93,321.32)}{TS 23:31}Ahhh!
+Dialogue: 0,0:23:33.05,0:23:33.09,we mango now,,0,0,0,,{\an7\bord0\blur3.77\pos(1009.43,264.61)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx159.6\fscy126.93}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.05,0:23:33.09,we mango now,sissy,0,0,0,***,{\blur0.75\fscx90.48\fscy90.48\pos(1009.43,264.61)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.09,0:23:33.14,we mango now,,0,0,0,,{\an7\bord0\blur3.46\pos(984.42,255.4)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx146.31\fscy116.36}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.09,0:23:33.14,we mango now,sissy,0,0,0,***,{\blur0.69\fscx82.95\fscy82.95\pos(984.42,255.4)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.14,0:23:33.18,we mango now,,0,0,0,,{\an7\bord0\blur3.33\pos(974.69,251.83)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx141.12\fscy112.23}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.14,0:23:33.18,we mango now,sissy,0,0,0,***,{\blur0.67\fscx80.01\fscy80.01\pos(974.69,251.83)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.18,0:23:33.22,we mango now,,0,0,0,,{\an7\bord0\blur3.26\pos(969.03,249.77)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx138.14\fscy109.86}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.18,0:23:33.22,we mango now,sissy,0,0,0,***,{\blur0.65\fscx78.31\fscy78.31\pos(969.03,249.77)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.22,0:23:33.26,we mango now,,0,0,0,,{\an7\bord0\blur3.21\pos(965.1,248.31)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx136.04\fscy108.19}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.22,0:23:33.26,we mango now,sissy,0,0,0,***,{\blur0.64\fscx77.13\fscy77.13\pos(965.1,248.31)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 10,0:23:33.25,0:23:36.22,Default,,0,0,20,,It's your {*}Sissy{*Onee-tama}, Kobeni!
+Dialogue: 0,0:23:33.26,0:23:33.30,we mango now,,0,0,0,,{\an7\bord0\blur3.18\pos(962.05,247.17)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx134.45\fscy106.93}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.26,0:23:33.30,we mango now,sissy,0,0,0,***,{\blur0.64\fscx76.23\fscy76.23\pos(962.05,247.17)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.30,0:23:33.35,we mango now,,0,0,0,,{\an7\bord0\blur3.14\pos(959.58,246.27)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx133.12\fscy105.87}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.30,0:23:33.35,we mango now,sissy,0,0,0,***,{\blur0.63\fscx75.47\fscy75.47\pos(959.58,246.27)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.35,0:23:33.39,we mango now,,0,0,0,,{\an7\bord0\blur3.12\pos(957.52,245.5)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx132.05\fscy105.02}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.35,0:23:33.39,we mango now,sissy,0,0,0,***,{\blur0.62\fscx74.86\fscy74.86\pos(957.52,245.5)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.39,0:23:33.43,we mango now,,0,0,0,,{\an7\bord0\blur3.1\pos(955.76,244.86)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx131.11\fscy104.27}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.39,0:23:33.43,we mango now,sissy,0,0,0,***,{\blur0.62\fscx74.33\fscy74.33\pos(955.76,244.86)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.43,0:23:33.47,we mango now,,0,0,0,,{\an7\bord0\blur3.08\pos(954.26,244.31)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx130.3\fscy103.63}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.43,0:23:33.47,we mango now,sissy,0,0,0,***,{\blur0.62\fscx73.87\fscy73.87\pos(954.26,244.31)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.47,0:23:33.51,we mango now,,0,0,0,,{\an7\bord0\blur3.06\pos(953,243.84)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx129.65\fscy103.1}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.47,0:23:33.51,we mango now,sissy,0,0,0,***,{\blur0.61\fscx73.5\fscy73.5\pos(953,243.84)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.51,0:23:33.55,we mango now,,0,0,0,,{\an7\bord0\blur3.05\pos(951.92,243.41)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx129.09\fscy102.66}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.51,0:23:33.55,we mango now,sissy,0,0,0,***,{\blur0.61\fscx73.18\fscy73.18\pos(951.92,243.41)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.55,0:23:33.60,we mango now,,0,0,0,,{\an7\bord0\blur3.04\pos(950.95,243.08)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx128.56\fscy102.24}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.55,0:23:33.60,we mango now,sissy,0,0,0,***,{\blur0.61\fscx72.89\fscy72.89\pos(950.95,243.08)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.60,0:23:33.64,we mango now,,0,0,0,,{\an7\bord0\blur3.03\pos(950.19,242.79)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx128.12\fscy101.89}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.60,0:23:33.64,we mango now,sissy,0,0,0,***,{\blur0.61\fscx72.64\fscy72.64\pos(950.19,242.79)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.64,0:23:33.68,we mango now,,0,0,0,,{\an7\bord0\blur3.02\pos(949.48,242.55)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx127.79\fscy101.63}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.64,0:23:33.68,we mango now,sissy,0,0,0,***,{\blur0.6\fscx72.45\fscy72.45\pos(949.48,242.55)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.68,0:23:33.72,we mango now,,0,0,0,,{\an7\bord0\blur3.01\pos(948.98,242.35)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx127.52\fscy101.41}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.68,0:23:33.72,we mango now,sissy,0,0,0,***,{\blur0.6\fscx72.29\fscy72.29\pos(948.98,242.35)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.72,0:23:33.76,we mango now,,0,0,0,,{\an7\bord0\blur3.01\pos(948.52,242.19)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx127.28\fscy101.22}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.72,0:23:33.76,we mango now,sissy,0,0,0,***,{\blur0.6\fscx72.16\fscy72.16\pos(948.52,242.19)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.76,0:23:33.80,we mango now,,0,0,0,,{\an7\bord0\blur3\pos(948.25,242.08)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx127.12\fscy101.1}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.76,0:23:33.80,we mango now,sissy,0,0,0,***,{\blur0.6\fscx72.07\fscy72.07\pos(948.25,242.08)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:33.80,0:23:39.52,we mango now,,0,0,0,,{\an7\bord0\blur3\pos(948,242)\p1\c&HFFFFFF&\p1\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)\fscx127\fscy101}m -14 -164 l 20 -156 18 203 4 212 -6 211 -26 173 -26 -162
+Dialogue: 1,0:23:33.80,0:23:39.52,we mango now,sissy,0,0,0,***,{\blur0.6\fscx72\fscy72\pos(948,242)\clip(m 249.93 72.095 l 1042.064 72.095 1042.064 669.778 249.93 669.778)}{TS 23:33}It's\N your \N{*}Sissy{*Onee-tama},\N Kobeni! {match}
+Dialogue: 0,0:23:36.06,0:23:39.52,Sign - Episode Title,,0,0,0,,{\fad(440,0)\bord3\3c&HF7C820&\c&HF7C820&\blur0.5\1a&HFF&\t(155,200,\1a&H00&)\pos(468.924,297.547)}Next Time
+Dialogue: 1,0:23:36.06,0:23:39.52,Sign - Episode Title,,0,0,0,,{\fad(440,0)\bord0\3c&HF7C820&\blur0.5\pos(468.924,297.547)}Next Time
+Dialogue: 1,0:23:36.06,0:23:39.52,Sign - Episode Title,,0,0,0,,{\fad(440,0)\bord6.5\c&H3FA1FB&\blur0.5\fs40\3c&HFAC43B&\1a&HFF&\t(155,200,\1a&H00&)\pos(646.994,470.711)}She's Given Birth
+Dialogue: 2,0:23:36.06,0:23:39.52,Sign - Episode Title,,0,0,0,,{\fad(440,0)\bord3\blur0.5\fs40\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(155,200,\1a&H00&)\pos(646.994,470.711)}She's Given Birth
+Dialogue: 3,0:23:36.06,0:23:39.52,Sign - Episode Title,,0,0,0,,{\fad(440,0)\bord0\c&H3FA1FB&\blur0.5\fs40\3c&HFFFFFF&\pos(646.994,470.711)}She's Given Birth
+Dialogue: 10,0:23:36.22,0:23:39.30,Default,,0,0,20,,Next Time: She's Given Birth.
+Dialogue: 0,0:23:39.30,0:23:41.30,Default,,0,0,0,,
