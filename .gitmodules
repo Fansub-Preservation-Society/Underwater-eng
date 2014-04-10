@@ -1,3 +1,6 @@
 [submodule "joint/Vivid Subs"]
 	path = joint/Vivid Subs
 	url = https://github.com/Fansub-Preservation-Society/joint_Underwater-Vivid-eng.git
+[submodule "joint/FFFansubs"]
+	path = joint/FFFansubs
+	url = https://github.com/Fansub-Preservation-Society/joint_Underwater-FFF-eng.git
