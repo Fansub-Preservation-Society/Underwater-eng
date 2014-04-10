@@ -4,3 +4,6 @@
 [submodule "joint/FFFansubs"]
 	path = joint/FFFansubs
 	url = https://github.com/Fansub-Preservation-Society/joint_Underwater-FFF-eng.git
+[submodule "joint/rori Subs"]
+	path = joint/rori Subs
+	url = https://github.com/Fansub-Preservation-Society/joint_Underwater-rori-eng.git
