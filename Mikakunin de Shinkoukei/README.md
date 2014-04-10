@@ -10,6 +10,10 @@ Credits
 * Encoding: Daiz
 * Quality Check: Daiz (1-12), Kusion (1-9)
 
+Notes
+=====
+* Default subs do not use honorifics, while the alternate subs do use honorifics.
+
 Fonts Used
 ==========
 * [123 Marker](http://www.dafont.com/123marker.font)
